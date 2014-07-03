@@ -1,0 +1,505 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Worcester,336,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Worcester,179,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Worcester,161,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Worcester,393,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Worcester,60,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Worcester,518,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Wicomico,371,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Wicomico,255,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Wicomico,486,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Wicomico,1026,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Worcester,825,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Wicomico,896,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Washington,1401,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Worcester,737,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Washington,627,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Washington,1171,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Wicomico,704,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Washington,1822,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Washington,198,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Wicomico,1422,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Talbot,339,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Talbot,252,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Wicomico,78,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Talbot,164,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Talbot,292,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Washington,1019,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Talbot,74,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Talbot,656,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Washington,1798,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Somerset,125,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Somerset,112,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Washington,1403,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Somerset,48,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Somerset,83,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Talbot,970,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Somerset,212,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Somerset,23,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Talbot,450,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Somerset,131,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,St. Mary's,636,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Somerset,230,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,St. Mary's,864,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,St. Mary's,448,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,St. Mary's,971,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,St. Mary's,463,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,St. Mary's,593,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Queen Anne's,917,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,St. Mary's,115,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,St. Mary's,922,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Prince George's,1795,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Queen Anne's,433,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Queen Anne's,232,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Prince George's,3572,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Queen Anne's,170,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Queen Anne's,469,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Prince George's,1129,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Queen Anne's,482,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Queen Anne's,43,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Montgomery,5135,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Queen Anne's,429,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Prince George's,1507,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Prince George's,1547,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Kent,358,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Prince George's,4591,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Prince George's,1694,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Prince George's,3605,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Montgomery,1692,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Montgomery,12187,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Montgomery,1880,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Montgomery,20936,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Howard,12643,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Montgomery,2780,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Montgomery,5732,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Montgomery,16470,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Kent,202,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Kent,110,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Harford,4297,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Kent,86,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Garrett,496,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Kent,214,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Kent,236,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Frederick,3240,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Kent,32,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Kent,222,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Howard,745,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Howard,1215,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Dorchester,301,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Howard,3755,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Howard,2397,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Howard,1111,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Howard,167,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Howard,1889,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Harford,1377,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Harford,858,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Charles,1388,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Harford,698,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Harford,2417,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Harford,5575,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Harford,152,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Harford,1207,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Garrett,474,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Garrett,244,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Cecil,1584,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Garrett,444,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Garrett,236,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Garrett,556,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Garrett,84,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Garrett,633,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Frederick,3466,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Frederick,1721,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Carroll,3563,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Frederick,1538,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Frederick,2903,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Frederick,1332,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Frederick,458,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Frederick,2995,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Dorchester,173,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Dorchester,102,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Caroline,362,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Dorchester,104,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Dorchester,196,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Dorchester,263,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Dorchester,78,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Dorchester,309,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Charles,1008,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Charles,707,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Calvert,1057,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Charles,747,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Charles,825,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Charles,620,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Charles,185,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Charles,1412,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Cecil,601,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Cecil,214,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Baltimore,9558,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Cecil,356,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Cecil,366,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Cecil,877,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Cecil,62,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Cecil,422,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Carroll,7016,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Carroll,889,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Baltimore City,152,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Carroll,532,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Carroll,1270,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Carroll,1868,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Carroll,116,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Carroll,1528,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Caroline,228,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Caroline,86,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Anne Arundel,13311,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Caroline,98,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Caroline,193,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Caroline,264,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Caroline,21,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Caroline,226,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Calvert,614,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Calvert,643,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Allegany,540,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Calvert,507,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Calvert,1017,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Calvert,585,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Calvert,123,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Calvert,856,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Baltimore,1695,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Baltimore,1924,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Talbot,1870,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Baltimore,1243,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Baltimore,3921,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Baltimore,18404,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Baltimore,322,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Baltimore,2973,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Baltimore City,247,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Baltimore City,210,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Queen Anne's,2187,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Baltimore City,705,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Baltimore City,2551,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Baltimore City,667,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Anne Arundel,3193,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Anne Arundel,3699,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Anne Arundel,2583,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Anne Arundel,7100,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Howard,21473,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Anne Arundel,6910,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Anne Arundel,621,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Anne Arundel,5668,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ken Wayman,,,,,Republican,Allegany,249,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Allegany,366,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Garrett,1115,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,Republican,Allegany,455,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Frederick,10207,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Rob Sobhani,,,,,Republican,Allegany,440,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Ross Z. Pierpont,,,,,Republican,Allegany,1104,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Dorchester,1869,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Howard David Greyber,,,,,Republican,Allegany,227,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Robin Ficker,,,,,Republican,Allegany,958,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Worcester,338,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Worcester,201,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Cecil,3902,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Wicomico,475,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Wicomico,286,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Washington,1097,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Washington,644,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Talbot,219,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Talbot,137,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Somerset,107,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Calvert,4262,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Somerset,86,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,St. Mary's,475,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,St. Mary's,306,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Queen Anne's,323,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Queen Anne's,160,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Prince George's,10358,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Prince George's,3829,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Allegany,4643,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Montgomery,10387,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Montgomery,10618,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Kent,206,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Kent,101,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Howard,2038,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Howard,1197,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Harford,1772,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Dorchester,15,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Harford,1217,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Garrett,143,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Garrett,76,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Frederick,1358,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Frederick,854,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Dorchester,271,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Dorchester,163,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Charles,2857,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Charles,586,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Charles,383,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Cecil,591,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Cecil,379,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Carroll,1347,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Carroll,673,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Caroline,175,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Charles,668,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Caroline,100,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Calvert,416,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Calvert,247,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Baltimore,6913,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Baltimore,4486,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Baltimore City,1775,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Baltimore City,2102,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Charles,8,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Anne Arundel,4084,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Anne Arundel,2928,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,George English,,,,,Democratic,Allegany,530,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Sidney Altman,,,,,Democratic,Allegany,329,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Charles,27,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Charles,5263,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Charles,20,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Cecil,1811,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Cecil,373,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Cecil,1,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Cecil,42,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Cecil,3297,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Cecil,12,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Carroll,5191,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Carroll,1337,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Carroll,16,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Carroll,57,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Carroll,11717,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Carroll,48,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Caroline,499,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Caroline,165,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Caroline,1,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Caroline,12,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Caroline,1126,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Caroline,3,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Calvert,2320,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Calvert,15,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Calvert,496,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Calvert,11,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Calvert,18,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Calvert,3898,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Baltimore,14518,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Baltimore,3142,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Baltimore,35,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Baltimore,176,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Baltimore,27009,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Baltimore,128,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Baltimore City,3484,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Baltimore City,953,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Baltimore City,24,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Baltimore City,73,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Baltimore City,4206,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Baltimore City,95,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Anne Arundel,19927,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Anne Arundel,3432,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Anne Arundel,65,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Anne Arundel,187,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Anne Arundel,27845,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Anne Arundel,136,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Allegany,2485,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Allegany,443,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Allegany,19,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Allegany,51,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Allegany,5438,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Allegany,68,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Worcester,197,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Worcester,19,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Worcester,2252,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Worcester,1416,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Wicomico,322,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Wicomico,35,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Wicomico,3812,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Wicomico,1939,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Washington,460,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Washington,80,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Washington,5309,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Washington,2916,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Talbot,112,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Talbot,14,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Talbot,1283,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Talbot,972,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Somerset,89,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Somerset,13,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Somerset,816,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Somerset,506,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,St. Mary's,352,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,St. Mary's,55,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,St. Mary's,3503,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,St. Mary's,1792,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Queen Anne's,198,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Queen Anne's,27,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Queen Anne's,1606,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Queen Anne's,1105,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Prince George's,1237,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Prince George's,1491,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Prince George's,69470,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Prince George's,13703,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Montgomery,2880,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Montgomery,328,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Montgomery,66765,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Montgomery,34083,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Kent,90,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Kent,20,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Kent,1024,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Kent,717,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Howard,469,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Howard,162,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Howard,16223,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Howard,8800,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Harford,1127,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Harford,210,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Harford,9673,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Harford,6124,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Garrett,128,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Garrett,17,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Garrett,801,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Garrett,426,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Frederick,682,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Frederick,92,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Frederick,7733,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Frederick,4731,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Dorchester,133,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Dorchester,73,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Dorchester,1584,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Dorchester,913,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Charles,399,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Charles,48,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Charles,4643,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Charles,2032,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Cecil,405,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Cecil,73,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Cecil,3009,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Cecil,1702,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Carroll,614,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Carroll,123,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Carroll,5659,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Carroll,3813,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Caroline,104,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Caroline,9,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Caroline,784,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Caroline,498,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Calvert,276,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Calvert,30,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Calvert,3254,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Calvert,1612,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Baltimore,3004,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Baltimore,640,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Baltimore,47500,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Baltimore,24698,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Baltimore City,894,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Baltimore City,486,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Baltimore City,53468,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Baltimore City,13814,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Anne Arundel,2534,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Anne Arundel,386,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Anne Arundel,27225,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Anne Arundel,14123,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,Democratic,Allegany,229,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Lyndon H. LaRouche Jr.,,,,,Democratic,Allegany,79,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Al Gore,,,,,Democratic,Allegany,4234,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Bill Bradley,,,,,Democratic,Allegany,1952,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Dorchester,1318,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Dorchester,35,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Dorchester,9,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Dorchester,149,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Dorchester,690,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Frederick,55,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Frederick,13452,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Frederick,75,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Frederick,34,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Frederick,1352,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Frederick,7086,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Garrett,14,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Garrett,2663,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Garrett,16,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Garrett,4,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Garrett,286,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Garrett,976,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Harford,58,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Harford,12244,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Harford,73,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Harford,18,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Harford,1397,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Harford,5814,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Howard,47,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Howard,13910,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Howard,88,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Howard,27,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Howard,1707,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Howard,10580,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Kent,4,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Kent,1068,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Kent,8,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Kent,2,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Kent,86,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Kent,650,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Montgomery,253,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Montgomery,39373,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Montgomery,306,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Montgomery,168,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Montgomery,4472,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Montgomery,34787,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Prince George's,282,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Prince George's,14178,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Prince George's,243,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Prince George's,108,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Prince George's,2181,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Prince George's,9281,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Queen Anne's,7,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Queen Anne's,2379,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Queen Anne's,10,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Queen Anne's,4,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Queen Anne's,226,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Queen Anne's,1320,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,St. Mary's,11,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,St. Mary's,3458,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,St. Mary's,21,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,St. Mary's,4,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,St. Mary's,534,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,St. Mary's,2293,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Somerset,3,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Somerset,923,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Somerset,8,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Somerset,0,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Somerset,73,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Somerset,336,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Talbot,10,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Talbot,2398,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Talbot,10,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Talbot,1,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Talbot,172,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Talbot,1509,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Washington,25,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Washington,7762,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Washington,40,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Washington,20,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Washington,779,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Washington,3934,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Wicomico,14,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Wicomico,4194,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Wicomico,75,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Wicomico,6,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Wicomico,403,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Wicomico,2140,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Gary Bauer,,,,,Republican,Worcester,5,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,Republican,Worcester,2320,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Steve Forbes,,,,,Republican,Worcester,27,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Orrin Hatch,,,,,Republican,Worcester,3,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,Alan Keyes,,,,,Republican,Worcester,194,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,President and Vice President of the United States,,John McCain,,,,,Republican,Worcester,1493,,,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Anne Arundel,35425,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Baltimore City,50010,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Baltimore,60765,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Caroline,1028,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Carroll,7623,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Charles,5777,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Harford,13350,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Kent,1423,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Montgomery,78050,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Prince George's,59233,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,St. Mary's,4636,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Somerset,1125,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Washington,6532,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Wicomico,5107,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul S. Sarbanes,,,,,Democratic,Worcester,3136,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Paul H. Rappaport,,,,,Republican,Baltimore City,1693,,Winner,,2000
+2014-06-26 17:11:13.304000,md-2000-03-07-primary,2000-03-07 00:00:00,2000-03-07 00:00:00,primary,certified,False,U.S. Senator,,Kenneth R. Timmerman,,,,,Republican,Baltimore City,357,,,,2000
