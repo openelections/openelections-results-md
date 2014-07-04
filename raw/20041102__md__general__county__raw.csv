@@ -1,0 +1,638 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Baltimore,124092,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Anne Arundel,2,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Allegany,162,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Allegany,271,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Allegany,12882,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Allegany,18980,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Allegany,10576,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Allegany,25,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Allegany,43,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Allegany,55,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Allegany,167,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Allegany,9,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Allegany,15238,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Allegany,0,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Allegany,8,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Allegany,19179,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Allegany,7793,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Allegany,608,,,,2004
+2014-06-26 17:11:24.671000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Allegany,7,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Anne Arundel,133231,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Anne Arundel,103324,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Anne Arundel,0,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Anne Arundel,343,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Anne Arundel,718,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Anne Arundel,510,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Anne Arundel,1261,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Anne Arundel,0,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Anne Arundel,0,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Anne Arundel,0,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Anne Arundel,0,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Anne Arundel,280,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Anne Arundel,102522,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Anne Arundel,2,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Anne Arundel,129166,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Anne Arundel,2458,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Anne Arundel,14,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Anne Arundel,967,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Anne Arundel,120,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Anne Arundel,41476,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Anne Arundel,14391,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Anne Arundel,100,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Anne Arundel,14199,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Anne Arundel,23569,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Keith Salkowski,,,,,GRN,Anne Arundel,893,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Other Write-Ins,,,,,BOT,Anne Arundel,33,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Anne Arundel,50858,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Anne Arundel,52959,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Patsy Allen,,,,,GRN,Anne Arundel,2769,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Other Write-Ins,,,,,BOT,Anne Arundel,91,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Anne Arundel,11972,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Anne Arundel,13372,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Bob S. Auerbach,,,,,GRN,Anne Arundel,505,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steve Krukar,,,,,CON,Anne Arundel,169,,,,2004
+2014-06-26 17:11:31.104000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Other Write-Ins,,,,,BOT,Anne Arundel,12,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Baltimore,166051,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Baltimore,182474,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Baltimore,0,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Baltimore,664,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Baltimore,1219,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Baltimore,667,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Baltimore,2070,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Baltimore,1,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Baltimore,0,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Baltimore,0,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Baltimore,0,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Baltimore,333,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Baltimore,5,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Baltimore,4,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Baltimore,217688,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Baltimore,3781,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Baltimore,6,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Baltimore,1288,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Baltimore,206,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Baltimore,25512,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Baltimore,8628,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Baltimore,40,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Baltimore,46236,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore,96723,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Keith Salkowski,,,,,GRN,Baltimore,3980,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Other Write-Ins,,,,,BOT,Baltimore,123,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Baltimore,23795,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Baltimore,59842,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Patsy Allen,,,,,GRN,Baltimore,1995,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Other Write-Ins,,,,,BOT,Baltimore,78,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Baltimore,11255,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Baltimore,4813,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Baltimore,806,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Baltimore,8,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Baltimore,13173,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Baltimore,38901,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Virginia T. Rodino,,,,,GRN,Baltimore,969,,,,2004
+2014-06-26 17:11:43.486000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Other Write-Ins,,,,,BOT,Baltimore,40,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Calvert,23017,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Calvert,15967,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Calvert,0,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Calvert,49,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Calvert,70,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Calvert,44,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Calvert,170,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Calvert,0,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Calvert,0,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Calvert,1,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Calvert,0,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Calvert,33,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Calvert,18422,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Calvert,5,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Calvert,0,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Calvert,19543,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Calvert,374,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Calvert,2,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Calvert,155,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Calvert,12,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Calvert,16347,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Calvert,21243,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Bob S. Auerbach,,,,,GRN,Calvert,431,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steve Krukar,,,,,CON,Calvert,178,,,,2004
+2014-06-26 17:11:51.888000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Other Write-Ins,,,,,BOT,Calvert,15,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Caroline,7396,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Caroline,3810,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Caroline,19,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Caroline,33,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Caroline,24,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Caroline,66,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Caroline,8,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Caroline,5439,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Caroline,1,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Caroline,0,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Caroline,5543,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Caroline,84,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Caroline,4,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Caroline,61,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Caroline,2,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Caroline,8588,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Caroline,2167,,,,2004
+2014-06-26 17:11:53.230000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Caroline,18,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Carroll,55275,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Carroll,22974,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Carroll,112,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Carroll,307,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Carroll,164,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Carroll,435,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Carroll,82,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Carroll,44704,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Carroll,1,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Carroll,0,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Carroll,32391,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Carroll,692,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Carroll,1,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Carroll,334,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Carroll,33,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Carroll,54418,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Carroll,18507,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Carroll,2321,,,,2004
+2014-06-26 17:11:54.819000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Carroll,75,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Cecil,22556,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Cecil,14680,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Cecil,43,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Cecil,118,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Cecil,79,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Cecil,179,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Cecil,19,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Cecil,18843,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Cecil,6,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Cecil,0,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Cecil,17371,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Cecil,310,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Cecil,8,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Cecil,181,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Cecil,17,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Cecil,25798,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Cecil,9513,,,,2004
+2014-06-26 17:11:57.214000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Cecil,58,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Charles,28442,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Charles,29354,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Charles,55,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Charles,78,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Charles,63,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Charles,212,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Charles,37,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Charles,21547,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Charles,34305,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Charles,491,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Charles,0,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Charles,327,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Charles,56,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Charles,18867,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Charles,36653,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Bob S. Auerbach,,,,,GRN,Charles,537,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steve Krukar,,,,,CON,Charles,329,,,,2004
+2014-06-26 17:11:58.968000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Other Write-Ins,,,,,BOT,Charles,55,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Dorchester,7801,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Dorchester,5411,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Dorchester,22,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Dorchester,24,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Dorchester,21,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Dorchester,52,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Dorchester,8,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Dorchester,5284,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Dorchester,7571,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Dorchester,82,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Dorchester,0,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Dorchester,42,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Dorchester,5,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Dorchester,9327,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Dorchester,3007,,,,2004
+2014-06-26 17:12:01.142000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Dorchester,20,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Frederick,59934,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Frederick,39503,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Frederick,1,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Frederick,137,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Frederick,272,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Frederick,124,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Frederick,499,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Frederick,2,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Frederick,0,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Frederick,0,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Frederick,0,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Frederick,122,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Frederick,47081,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Frederick,11,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Frederick,2,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Frederick,49336,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Frederick,1081,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Frederick,19,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Frederick,376,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Frederick,59,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Frederick,59864,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Frederick,32215,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Frederick,3259,,,,2004
+2014-06-26 17:12:04.082000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Frederick,163,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Garrett,9085,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Garrett,3291,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Garrett,1,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Garrett,15,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Garrett,23,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Garrett,19,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Garrett,44,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Garrett,6,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Garrett,7330,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Garrett,2,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Garrett,4540,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Garrett,73,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Garrett,0,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Garrett,67,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Garrett,2,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Garrett,9119,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Garrett,2504,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Garrett,217,,,,2004
+2014-06-26 17:12:07.103000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Garrett,9,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Harford,71565,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Harford,39685,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Harford,1,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Harford,171,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Harford,403,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Harford,213,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Harford,598,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Harford,1,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Harford,1,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Harford,1,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Harford,0,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Harford,89,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Harford,56465,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Harford,4,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Harford,1,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Harford,53444,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Harford,890,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Harford,21,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Harford,333,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Harford,38,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Harford,45179,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Harford,14058,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Harford,84,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Harford,12286,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Harford,19289,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Keith Salkowski,,,,,GRN,Harford,755,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Other Write-Ins,,,,,BOT,Harford,30,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Harford,10401,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Harford,3971,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Harford,458,,,,2004
+2014-06-26 17:12:09.608000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Harford,13,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Howard,59724,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Howard,72257,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Howard,1,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Howard,240,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Howard,456,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Howard,175,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Howard,795,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Howard,1,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Howard,0,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Howard,0,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Howard,0,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Howard,161,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Howard,46610,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Howard,14,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Howard,5,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Howard,82479,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Howard,1538,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Howard,0,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Howard,507,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Howard,77,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Howard,11831,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Howard,23917,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Patsy Allen,,,,,GRN,Howard,978,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Other Write-Ins,,,,,BOT,Howard,39,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Howard,42041,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Howard,46909,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Virginia T. Rodino,,,,,GRN,Howard,1926,,,,2004
+2014-06-26 17:12:14.501000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Other Write-Ins,,,,,BOT,Howard,68,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Kent,4900,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Kent,4278,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Kent,16,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Kent,19,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Kent,12,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Kent,50,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Kent,10,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Kent,3860,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Kent,1,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Kent,0,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Kent,5117,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Kent,73,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Kent,1,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Kent,29,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Kent,7,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Kent,6997,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Kent,1782,,,,2004
+2014-06-26 17:12:18.353000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Kent,22,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Montgomery,136334,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Montgomery,273936,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Montgomery,0,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Montgomery,608,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Montgomery,1041,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Montgomery,374,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Montgomery,2271,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Montgomery,16,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Montgomery,2,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Montgomery,2,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Montgomery,0,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Montgomery,641,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Montgomery,21,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Montgomery,106101,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Montgomery,45,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Montgomery,291839,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Montgomery,4702,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Montgomery,91,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Montgomery,1444,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Montgomery,267,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,John McKinnis,,,,,REP,Montgomery,39039,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Albert R. Wynn,,,,,DEM,Montgomery,65275,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Theresa Mitchell Dudley,,,,,GRN,Montgomery,5049,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,John B. Kimble,,,,,IND,Montgomery,3,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Other Write-Ins,,,,,BOT,Montgomery,155,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Montgomery,5520,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Montgomery,3443,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Montgomery,289,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Montgomery,28,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Chuck Floyd,,,,,REP,Montgomery,71092,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Chris Van Hollen,,,,,DEM,Montgomery,204938,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Lih Young,,,,,DEM,Montgomery,78,,,,2004
+2014-06-26 17:12:24.983000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Other Write-Ins,,,,,BOT,Montgomery,459,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Prince George's,55532,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Prince George's,260532,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Prince George's,3,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Prince George's,373,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Prince George's,390,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Prince George's,322,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Prince George's,1052,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Prince George's,5,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Prince George's,0,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Prince George's,0,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Prince George's,0,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Prince George's,265,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Prince George's,39863,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Prince George's,7,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Prince George's,4,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Prince George's,264088,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Prince George's,3270,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Prince George's,15,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Prince George's,1253,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Prince George's,149,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,John McKinnis,,,,,REP,Prince George's,13868,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Albert R. Wynn,,,,,DEM,Prince George's,131534,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Theresa Mitchell Dudley,,,,,GRN,Prince George's,6836,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,John B. Kimble,,,,,IND,Prince George's,3,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,04,Other Write-Ins,,,,,BOT,Prince George's,98,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Prince George's,25947,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Prince George's,111485,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Bob S. Auerbach,,,,,GRN,Prince George's,2388,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steve Krukar,,,,,CON,Prince George's,907,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Other Write-Ins,,,,,BOT,Prince George's,112,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Chuck Floyd,,,,,REP,Prince George's,897,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Lih Young,,,,,DEM,Prince George's,1,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Chris Van Hollen,,,,,DEM,Prince George's,10191,,,,2004
+2014-06-26 17:12:39.278000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,08,Other Write-Ins,,,,,BOT,Prince George's,24,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Queen Anne's,14489,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Queen Anne's,7070,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Queen Anne's,23,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Queen Anne's,47,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Queen Anne's,45,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Queen Anne's,107,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Queen Anne's,13,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Queen Anne's,11964,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Queen Anne's,0,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Queen Anne's,9332,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Queen Anne's,146,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Queen Anne's,4,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Queen Anne's,90,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Queen Anne's,6,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Queen Anne's,16658,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Queen Anne's,4113,,,,2004
+2014-06-26 17:12:47.226000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Queen Anne's,17,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Somerset,4884,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Somerset,4034,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Somerset,14,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Somerset,13,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Somerset,15,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Somerset,31,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Somerset,3,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Somerset,3501,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Somerset,5157,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Somerset,51,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Somerset,0,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Somerset,38,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Somerset,4,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Somerset,5956,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Somerset,2321,,,,2004
+2014-06-26 17:12:48.673000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Somerset,13,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,St. Mary's,23725,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,St. Mary's,13776,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,St. Mary's,65,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,St. Mary's,94,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,St. Mary's,57,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,St. Mary's,166,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,St. Mary's,33,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,St. Mary's,17802,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,St. Mary's,18440,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,St. Mary's,368,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,St. Mary's,0,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,St. Mary's,238,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,St. Mary's,19,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,St. Mary's,14056,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,St. Mary's,22114,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Bob S. Auerbach,,,,,GRN,St. Mary's,363,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Steve Krukar,,,,,CON,St. Mary's,266,,,,2004
+2014-06-26 17:12:50.458000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,05,Other Write-Ins,,,,,BOT,St. Mary's,12,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Talbot,11288,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Talbot,7367,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Talbot,30,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Talbot,46,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Talbot,21,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Talbot,100,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Talbot,12,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Talbot,8501,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Talbot,1,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Talbot,0,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Talbot,9855,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Talbot,147,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Talbot,1,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Talbot,60,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Talbot,10,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Talbot,14324,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Talbot,3773,,,,2004
+2014-06-26 17:12:52.181000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Talbot,35,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Washington,36917,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Washington,20387,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Washington,0,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Washington,75,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Washington,126,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Washington,88,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Washington,267,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Washington,1,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Washington,0,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Washington,0,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Washington,0,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Washington,43,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Washington,29181,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Washington,2,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Washington,0,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Washington,26431,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Washington,496,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Washington,11,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Washington,256,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Washington,14,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Washington,36320,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Washington,16862,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Gregory J. Hemingway,,,,,GRN,Washington,1366,,,,2004
+2014-06-26 17:12:54.320000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,06,Other Write-Ins,,,,,BOT,Washington,46,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Wicomico,21998,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Wicomico,15137,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Wicomico,49,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Wicomico,71,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Wicomico,35,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Wicomico,176,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Wicomico,37,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Wicomico,16348,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Wicomico,19866,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Wicomico,251,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Wicomico,0,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Wicomico,121,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Wicomico,22,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Wicomico,26908,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Wicomico,8613,,,,2004
+2014-06-26 17:12:57.162000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Wicomico,72,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Worcester,15349,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Worcester,9648,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Worcester,22,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Worcester,51,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Worcester,32,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Worcester,113,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Worcester,14,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Worcester,10954,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Worcester,13524,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Worcester,142,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Worcester,0,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Worcester,69,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Worcester,5,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Worcester,18426,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Worcester,5506,,,,2004
+2014-06-26 17:12:59.859000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,01,Other Write-Ins,,,,,BOT,Worcester,26,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Baltimore City,36230,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Baltimore City,175022,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,John Joseph Kennedy,,,,,DEM,Baltimore City,0,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,David Cobb,,,,,GRN,Baltimore City,462,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Badnarik,,,,,LIB,Baltimore City,432,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Michael Anthony Peroutka,,,,,CON,Baltimore City,262,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Ralph Nader,,,,,POP,Baltimore City,973,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Joe Schriner,,,,,IND,Baltimore City,0,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Theodis (Ted) Brown, Sr.",,,,,IND,Baltimore City,0,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Lawson Mitchell Bone,,,,,IND,Baltimore City,0,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,"Robert Abraham Boyle, II",,,,,IND,Baltimore City,0,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,President and Vice President of the United States,,Other Write-Ins,,,,,BOT,Baltimore City,182,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Baltimore City,23759,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Baltimore City,4,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Dennard A. Gayle-El, Sr.",,,,,REP,Baltimore City,6,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Baltimore City,172427,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Maria Allwine,,,,,GRN,Baltimore City,3045,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,"Robert Gemmill, II",,,,,LIB,Baltimore City,6,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Thomas Trump,,,,,CON,Baltimore City,611,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,U.S. Senator,,Other Write-Ins,,,,,BOT,Baltimore City,114,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Baltimore City,3091,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore City,25170,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Keith Salkowski,,,,,GRN,Baltimore City,880,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,02,Other Write-Ins,,,,,BOT,Baltimore City,38,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Baltimore City,10524,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Baltimore City,45348,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Patsy Allen,,,,,GRN,Baltimore City,2153,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,03,Other Write-Ins,,,,,BOT,Baltimore City,42,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Baltimore City,4888,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Baltimore City,93379,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Virginia T. Rodino,,,,,GRN,Baltimore City,1832,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Representative in Congress,07,Other Write-Ins,,,,,BOT,Baltimore City,57,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Comptroller,,Joan M. Pratt,,,,,DEM,Baltimore City,165778,,,,2004
+2014-06-26 17:13:09.569000,md-2004-11-02-general,2004-11-02 00:00:00,2004-11-02 00:00:00,general,certified,False,Comptroller,,Other Write-Ins,,,,,BOT,Baltimore City,1144,,,,2004
