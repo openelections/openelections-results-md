@@ -1,0 +1,726 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Allegany,46,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Allegany,3497,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Allegany,13,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Allegany,244,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Allegany,18,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Allegany,24,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Allegany,1939,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Allegany,25,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Allegany,287,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Allegany,455,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Allegany,1577,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Allegany,2403,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Allegany,78,,,,2008
+2014-06-26 17:18:03.717000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Allegany,557,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Allegany,95,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Allegany,2499,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Allegany,8,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Allegany,73,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Allegany,3299,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Allegany,168,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Allegany,271,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Allegany,7,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Allegany,46,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Allegany,5016,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Allegany,320,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Allegany,333,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Allegany,222,,,,2008
+2014-06-26 17:18:04.918000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Allegany,219,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Anne Arundel,373,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Anne Arundel,29465,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Anne Arundel,72,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Anne Arundel,1222,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Anne Arundel,84,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Anne Arundel,167,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,35560,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Anne Arundel,240,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,1482,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Anne Arundel,1500,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Anne Arundel,5199,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Anne Arundel,2893,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Anne Arundel,1694,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Anne Arundel,8708,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John M. Rea,,,,,DEM,Anne Arundel,4271,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Anne Arundel,25222,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,"James Patrick Cusick, Sr.",,,,,DEM,Anne Arundel,1094,,,,2008
+2014-06-26 17:18:13.797000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Anne Arundel,4926,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Anne Arundel,607,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Anne Arundel,10866,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Anne Arundel,69,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Anne Arundel,401,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Anne Arundel,25462,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Anne Arundel,2583,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Anne Arundel,3374,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Anne Arundel,42,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Anne Arundel,371,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Anne Arundel,249,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Anne Arundel,263,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Anne Arundel,4191,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Anne Arundel,6664,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Anne Arundel,2535,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Anne Arundel,3226,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Anne Arundel,5300,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Christopher Panasuk,,,,,REP,Anne Arundel,2035,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Paul Spause,,,,,REP,Anne Arundel,2103,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John Stafford,,,,,REP,Anne Arundel,4538,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Anne Arundel,1066,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Jesse James Dann,,,,,REP,Anne Arundel,1778,,,,2008
+2014-06-26 17:18:17.080000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Mike Hethmon,,,,,REP,Anne Arundel,915,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Baltimore,634,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Baltimore,51668,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Baltimore,144,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Baltimore,1954,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Baltimore,129,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Baltimore,275,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,72043,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Baltimore,346,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,2004,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Baltimore,1080,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Baltimore,2892,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Baltimore,1822,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Baltimore,1026,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore,36562,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John M. Rea,,,,,DEM,Baltimore,2945,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Baltimore,27212,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Baltimore,344,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Baltimore,1300,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Baltimore,826,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Baltimore,110,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Baltimore,314,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Baltimore,22613,,,,2008
+2014-06-26 17:18:28.869000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Charles Ulysses Smith,,,,,DEM,Baltimore,1645,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Baltimore,682,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Baltimore,10076,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Baltimore,53,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Baltimore,386,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Baltimore,21131,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore,3892,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore,3744,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Baltimore,46,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Baltimore,363,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Baltimore,86,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Baltimore,96,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Baltimore,1107,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Baltimore,4591,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Baltimore,1140,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Baltimore,9048,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Baltimore,2916,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Christopher Panasuk,,,,,REP,Baltimore,952,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Paul Spause,,,,,REP,Baltimore,647,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John Stafford,,,,,REP,Baltimore,2006,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Baltimore,2320,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Baltimore,226,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Baltimore,186,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Baltimore,394,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Baltimore,50,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Ray Bly,,,,,REP,Baltimore,760,,,,2008
+2014-06-26 17:18:32.630000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Baltimore,2078,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Calvert,47,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Calvert,4760,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Calvert,12,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Calvert,219,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Calvert,14,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Calvert,23,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Calvert,4972,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Calvert,38,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Calvert,158,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,"James Patrick Cusick, Sr.",,,,,DEM,Calvert,1149,,,,2008
+2014-06-26 17:18:34.609000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Calvert,7896,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Calvert,96,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Calvert,2183,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Calvert,12,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Calvert,54,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Calvert,4101,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Calvert,250,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Calvert,335,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Calvert,14,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Calvert,86,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Calvert,1743,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Jesse James Dann,,,,,REP,Calvert,1645,,,,2008
+2014-06-26 17:18:35.482000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Mike Hethmon,,,,,REP,Calvert,1519,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Caroline,54,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Caroline,1437,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Caroline,9,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Caroline,87,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Caroline,8,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Caroline,11,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Caroline,1372,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Caroline,17,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Caroline,118,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Caroline,407,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Caroline,1193,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Caroline,701,,,,2008
+2014-06-26 17:18:36.698000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Caroline,278,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Caroline,36,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Caroline,1018,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Caroline,4,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Caroline,45,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Caroline,1373,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Caroline,147,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Caroline,245,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Caroline,6,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Caroline,32,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Caroline,43,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Caroline,39,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Caroline,1075,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Caroline,1057,,,,2008
+2014-06-26 17:18:37.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Caroline,673,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Carroll,74,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Carroll,6973,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Carroll,20,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Carroll,401,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Carroll,25,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Carroll,45,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Carroll,6766,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Carroll,63,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Carroll,375,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Carroll,1039,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Carroll,5203,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Carroll,4360,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Carroll,265,,,,2008
+2014-06-26 17:18:40.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Carroll,797,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Carroll,226,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Carroll,5452,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Carroll,20,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Carroll,137,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Carroll,8310,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Carroll,1527,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Carroll,1345,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Carroll,12,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Carroll,168,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Carroll,12181,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Carroll,977,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Carroll,858,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Carroll,1627,,,,2008
+2014-06-26 17:18:41.624000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Carroll,160,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Cecil,134,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Cecil,4942,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Cecil,14,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Cecil,202,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Cecil,14,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Cecil,17,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Cecil,2741,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Cecil,24,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Cecil,275,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Cecil,1394,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Cecil,1935,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Cecil,2110,,,,2008
+2014-06-26 17:18:43.310000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Cecil,976,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Cecil,112,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Cecil,2531,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Cecil,11,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Cecil,43,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Cecil,3371,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Cecil,439,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Cecil,349,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Cecil,5,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Cecil,38,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Cecil,174,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Cecil,190,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Cecil,2211,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Cecil,2108,,,,2008
+2014-06-26 17:18:44.110000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Cecil,2051,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Charles,72,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Charles,7008,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Charles,14,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Charles,254,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Charles,10,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Charles,30,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Charles,14840,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Charles,37,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Charles,355,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,"James Patrick Cusick, Sr.",,,,,DEM,Charles,3554,,,,2008
+2014-06-26 17:18:46.522000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Charles,16223,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Charles,102,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Charles,2703,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Charles,11,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Charles,119,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Charles,4870,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Charles,297,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Charles,333,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Charles,11,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Charles,94,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Charles,4059,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Jesse James Dann,,,,,REP,Charles,1267,,,,2008
+2014-06-26 17:18:47.449000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Mike Hethmon,,,,,REP,Charles,1508,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Dorchester,52,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Dorchester,1935,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Dorchester,11,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Dorchester,95,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Dorchester,7,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Dorchester,17,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Dorchester,2368,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Dorchester,23,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Dorchester,171,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Dorchester,490,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Dorchester,1002,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Dorchester,2129,,,,2008
+2014-06-26 17:18:49.764000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Dorchester,260,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Dorchester,47,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Dorchester,940,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Dorchester,8,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Dorchester,43,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Dorchester,1733,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Dorchester,90,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Dorchester,195,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Dorchester,4,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Dorchester,20,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Dorchester,51,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Dorchester,45,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Dorchester,1315,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Dorchester,987,,,,2008
+2014-06-26 17:18:50.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Dorchester,628,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Frederick,119,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Frederick,11534,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Frederick,23,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Frederick,479,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Frederick,35,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Frederick,62,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Frederick,12354,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Frederick,101,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Frederick,499,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Frederick,1907,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Frederick,11071,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Frederick,7995,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Frederick,433,,,,2008
+2014-06-26 17:18:54.789000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Frederick,1203,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Frederick,251,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Frederick,7582,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Frederick,45,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Frederick,198,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Frederick,11060,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Frederick,1022,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Frederick,1470,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Frederick,21,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Frederick,232,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Frederick,15905,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Frederick,1936,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Frederick,1030,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Frederick,1467,,,,2008
+2014-06-26 17:18:56.351000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Frederick,154,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Garrett,11,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Garrett,1006,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Garrett,7,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Garrett,80,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Garrett,7,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Garrett,5,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Garrett,622,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Garrett,10,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Garrett,63,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Garrett,111,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Garrett,462,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Garrett,762,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Garrett,39,,,,2008
+2014-06-26 17:18:58.217000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Garrett,188,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Garrett,52,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Garrett,1615,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Garrett,7,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Garrett,48,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Garrett,1751,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Garrett,139,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Garrett,144,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Garrett,4,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Garrett,36,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Garrett,3007,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Garrett,225,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Garrett,138,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Garrett,125,,,,2008
+2014-06-26 17:18:59.059000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Garrett,99,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Harford,243,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Harford,13186,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Harford,40,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Harford,693,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Harford,36,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Harford,85,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Harford,13347,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Harford,102,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Harford,709,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Harford,2568,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Harford,2909,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Harford,3079,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Harford,2042,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Harford,6289,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Harford,287,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Harford,1194,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Harford,580,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Harford,76,,,,2008
+2014-06-26 17:19:03.378000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Harford,297,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Harford,318,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Harford,6654,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Harford,21,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Harford,193,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Harford,11413,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Harford,2258,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Harford,1554,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Harford,16,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Harford,182,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Harford,219,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Harford,212,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Harford,2544,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Harford,8080,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Harford,2637,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Harford,2785,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Harford,2035,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Harford,306,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Harford,244,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Harford,455,,,,2008
+2014-06-26 17:19:05.253000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Harford,60,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Howard,129,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Howard,18130,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Howard,28,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Howard,427,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Howard,37,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Howard,63,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Howard,27174,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Howard,137,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Howard,425,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John M. Rea,,,,,DEM,Howard,1437,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Howard,11047,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Howard,24215,,,,2008
+2014-06-26 17:19:11.755000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Charles Ulysses Smith,,,,,DEM,Howard,3916,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Howard,244,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Howard,5277,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Howard,25,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Howard,152,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Howard,11719,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Howard,1408,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Howard,1515,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Howard,23,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Howard,166,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Howard,1011,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Christopher Panasuk,,,,,REP,Howard,570,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Paul Spause,,,,,REP,Howard,741,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John Stafford,,,,,REP,Howard,1279,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Ray Bly,,,,,REP,Howard,2848,,,,2008
+2014-06-26 17:19:14.004000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Howard,7717,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Kent,57,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Kent,1260,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Kent,2,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Kent,100,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Kent,4,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Kent,10,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Kent,1607,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Kent,10,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Kent,99,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Kent,256,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Kent,1366,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Kent,759,,,,2008
+2014-06-26 17:19:15.526000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Kent,149,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Kent,47,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Kent,420,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Kent,9,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Kent,27,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Kent,1373,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Kent,100,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Kent,222,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Kent,0,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Kent,18,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Kent,20,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Kent,19,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Kent,1358,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Kent,495,,,,2008
+2014-06-26 17:19:16.184000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Kent,339,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Montgomery,448,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Montgomery,72697,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Montgomery,88,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Montgomery,1239,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Montgomery,104,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Montgomery,328,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Montgomery,93527,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Montgomery,333,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Montgomery,1161,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Michael Babula,,,,,DEM,Montgomery,729,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Donna Edwards,,,,,DEM,Montgomery,28781,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Jason Jennings,,,,,DEM,Montgomery,609,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,George E. McDermott,,,,,DEM,Montgomery,591,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,George E. Mitchell,,,,,DEM,Montgomery,499,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Albert R. Wynn,,,,,DEM,Montgomery,11731,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Montgomery,166,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Montgomery,1006,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Montgomery,542,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Montgomery,63,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Montgomery,116,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Chris Van Hollen,,,,,DEM,Montgomery,99928,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Deborah A. Vollmer,,,,,DEM,Montgomery,10120,,,,2008
+2014-06-26 17:19:30.404000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Lih Young,,,,,DEM,Montgomery,3209,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Montgomery,593,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Montgomery,9700,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Montgomery,75,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Montgomery,480,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Montgomery,28322,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Montgomery,1982,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Montgomery,3113,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Montgomery,65,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Montgomery,425,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Robert Broadus,,,,,REP,Montgomery,2045,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Peter James,,,,,REP,Montgomery,3861,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Vincent Martorano,,,,,REP,Montgomery,1325,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Michael Moshe Starkman,,,,,REP,Montgomery,2743,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Montgomery,1065,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Montgomery,212,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Montgomery,210,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Montgomery,88,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Montgomery,25,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Steve Hudson,,,,,REP,Montgomery,8586,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Meyer F. Marks,,,,,REP,Montgomery,1355,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Brian Mezger,,,,,REP,Montgomery,4498,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Jay Roberts,,,,,REP,Montgomery,2804,,,,2008
+2014-06-26 17:19:34.961000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Bruce Stern,,,,,REP,Montgomery,5729,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Prince George's,313,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Prince George's,33840,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Prince George's,84,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Prince George's,656,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Prince George's,82,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Prince George's,288,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Prince George's,135321,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Prince George's,168,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Prince George's,782,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Michael Babula,,,,,DEM,Prince George's,700,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Donna Edwards,,,,,DEM,Prince George's,49227,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Jason Jennings,,,,,DEM,Prince George's,820,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,George E. McDermott,,,,,DEM,Prince George's,455,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,George E. Mitchell,,,,,DEM,Prince George's,1238,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Albert R. Wynn,,,,,DEM,Prince George's,37154,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,"James Patrick Cusick, Sr.",,,,,DEM,Prince George's,12076,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Prince George's,52470,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Chris Van Hollen,,,,,DEM,Prince George's,4180,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Deborah A. Vollmer,,,,,DEM,Prince George's,932,,,,2008
+2014-06-26 17:19:47.012000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Lih Young,,,,,DEM,Prince George's,182,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Prince George's,202,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Prince George's,4155,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Prince George's,40,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Prince George's,314,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Prince George's,6580,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Prince George's,588,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Prince George's,730,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Prince George's,20,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Prince George's,170,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Robert Broadus,,,,,REP,Prince George's,703,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Peter James,,,,,REP,Prince George's,1051,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Vincent Martorano,,,,,REP,Prince George's,397,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,04,Michael Moshe Starkman,,,,,REP,Prince George's,457,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Prince George's,2470,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Jesse James Dann,,,,,REP,Prince George's,1628,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Mike Hethmon,,,,,REP,Prince George's,2370,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Steve Hudson,,,,,REP,Prince George's,97,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Meyer F. Marks,,,,,REP,Prince George's,20,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Brian Mezger,,,,,REP,Prince George's,35,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Jay Roberts,,,,,REP,Prince George's,39,,,,2008
+2014-06-26 17:19:50.950000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,08,Bruce Stern,,,,,REP,Prince George's,34,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Queen Anne's,80,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Queen Anne's,2672,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Queen Anne's,11,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Queen Anne's,167,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Queen Anne's,13,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Queen Anne's,23,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Queen Anne's,2438,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Queen Anne's,23,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Queen Anne's,215,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Queen Anne's,319,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Queen Anne's,3961,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Queen Anne's,643,,,,2008
+2014-06-26 17:19:52.776000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Queen Anne's,218,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Queen Anne's,86,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Queen Anne's,1444,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Queen Anne's,5,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Queen Anne's,50,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Queen Anne's,3529,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Queen Anne's,330,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Queen Anne's,587,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Queen Anne's,7,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Queen Anne's,53,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Queen Anne's,114,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Queen Anne's,54,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Queen Anne's,1877,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Queen Anne's,1894,,,,2008
+2014-06-26 17:19:53.615000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Queen Anne's,2100,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Somerset,32,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Somerset,1277,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Somerset,11,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Somerset,81,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Somerset,10,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Somerset,10,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Somerset,1565,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Somerset,14,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Somerset,96,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Somerset,402,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Somerset,954,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Somerset,922,,,,2008
+2014-06-26 17:19:55.536000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Somerset,217,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Somerset,22,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Somerset,692,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Somerset,2,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Somerset,30,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Somerset,889,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Somerset,31,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Somerset,48,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Somerset,1,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Somerset,16,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Somerset,28,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Somerset,21,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Somerset,748,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Somerset,600,,,,2008
+2014-06-26 17:19:56.334000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Somerset,317,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,St. Mary's,82,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,St. Mary's,5081,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,St. Mary's,23,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,St. Mary's,257,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,St. Mary's,23,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,St. Mary's,28,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,St. Mary's,5370,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,St. Mary's,47,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,St. Mary's,364,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,"James Patrick Cusick, Sr.",,,,,DEM,St. Mary's,1194,,,,2008
+2014-06-26 17:19:58.662000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,St. Mary's,8998,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,St. Mary's,86,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,St. Mary's,2541,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,St. Mary's,10,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,St. Mary's,63,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,St. Mary's,4913,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,St. Mary's,333,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,St. Mary's,315,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,St. Mary's,7,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,St. Mary's,69,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,St. Mary's,3044,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Jesse James Dann,,,,,REP,St. Mary's,1301,,,,2008
+2014-06-26 17:19:59.614000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,05,Mike Hethmon,,,,,REP,St. Mary's,1814,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Talbot,32,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Talbot,1954,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Talbot,6,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Talbot,108,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Talbot,6,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Talbot,9,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Talbot,2946,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Talbot,18,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Talbot,167,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Talbot,543,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Talbot,2198,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Talbot,1206,,,,2008
+2014-06-26 17:20:01.028000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Talbot,307,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Talbot,66,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Talbot,1011,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Talbot,7,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Talbot,27,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Talbot,3595,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Talbot,227,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Talbot,575,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Talbot,5,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Talbot,44,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Talbot,79,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Talbot,50,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Talbot,2916,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Talbot,1731,,,,2008
+2014-06-26 17:20:01.710000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Talbot,761,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Washington,110,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Washington,6660,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Washington,31,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Washington,553,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Washington,25,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Washington,40,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Washington,4596,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Washington,67,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Washington,478,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Robin L. Deibert,,,,,DEM,Washington,1491,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Washington,4154,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Andrew Duck,,,,,DEM,Washington,4161,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Rick Lank,,,,,DEM,Washington,158,,,,2008
+2014-06-26 17:20:04.968000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Larry John Smith,,,,,DEM,Washington,690,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Washington,182,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Washington,5841,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Washington,25,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Washington,118,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Washington,6144,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Washington,409,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Washington,618,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Washington,8,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Washington,97,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Washington,10106,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Tom Croft,,,,,REP,Washington,693,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,John B. Kimble,,,,,REP,Washington,434,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Joseph T. Krysztoforski,,,,,REP,Washington,1308,,,,2008
+2014-06-26 17:20:06.236000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,06,Frank K. Nethken,,,,,REP,Washington,90,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Wicomico,129,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Wicomico,4469,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Wicomico,17,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Wicomico,242,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Wicomico,19,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Wicomico,37,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Wicomico,6184,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Wicomico,24,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Wicomico,325,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Wicomico,1897,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Wicomico,2953,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Wicomico,3475,,,,2008
+2014-06-26 17:20:09.015000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Wicomico,976,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Wicomico,133,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Wicomico,3300,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Wicomico,15,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Wicomico,95,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Wicomico,4623,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Wicomico,230,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Wicomico,432,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Wicomico,10,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Wicomico,67,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Wicomico,129,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Wicomico,120,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Wicomico,3640,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Wicomico,3524,,,,2008
+2014-06-26 17:20:10.086000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Wicomico,1417,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Worcester,85,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Worcester,3455,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Worcester,14,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Worcester,187,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Worcester,9,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Worcester,16,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Worcester,3253,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Worcester,34,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Worcester,252,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Steve Harper,,,,,DEM,Worcester,1048,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Worcester,2004,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Christopher Robert Robinson,,,,,DEM,Worcester,2153,,,,2008
+2014-06-26 17:20:11.898000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joseph Werner,,,,,DEM,Worcester,610,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Worcester,81,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Worcester,1644,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Worcester,7,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Worcester,60,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Worcester,3520,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Worcester,165,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Worcester,360,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Worcester,7,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Worcester,49,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Joe Arminio,,,,,REP,Worcester,85,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Robert Joseph Banks,,,,,REP,Worcester,77,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Wayne T. Gilchrest,,,,,REP,Worcester,2642,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Worcester,1896,,,,2008
+2014-06-26 17:20:12.699000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,01,E. J. Pipkin,,,,,REP,Worcester,1102,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Joe Biden,,,,,DEM,Baltimore City,420,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Hillary Clinton,,,,,DEM,Baltimore City,25305,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Christopher J. Dodd,,,,,DEM,Baltimore City,94,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John Edwards,,,,,DEM,Baltimore City,559,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Gravel,,,,,DEM,Baltimore City,85,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Dennis J. Kucinich,,,,,DEM,Baltimore City,296,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore City,79760,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Bill Richardson,,,,,DEM,Baltimore City,197,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore City,557,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore City,9073,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John M. Rea,,,,,DEM,Baltimore City,1961,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Baltimore City,23117,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Baltimore City,51199,,,,2008
+2014-06-26 17:20:27.093000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Charles Ulysses Smith,,,,,DEM,Baltimore City,1761,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Rudy Giuliani,,,,,REP,Baltimore City,182,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mike Huckabee,,,,,REP,Baltimore City,1464,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Duncan Hunter,,,,,REP,Baltimore City,33,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Alan Keyes,,,,,REP,Baltimore City,230,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,John McCain,,,,,REP,Baltimore City,2965,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore City,581,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore City,552,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Tom Tancredo,,,,,REP,Baltimore City,15,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,President - Vice Pres,,Fred Thompson,,,,,REP,Baltimore City,59,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Baltimore City,392,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Baltimore City,1119,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Christopher Panasuk,,,,,REP,Baltimore City,396,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,Paul Spause,,,,,REP,Baltimore City,230,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,03,John Stafford,,,,,REP,Baltimore City,753,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Ray Bly,,,,,REP,Baltimore City,267,,,,2008
+2014-06-26 17:20:31.663000,md-2008-02-12-primary,2008-02-12 00:00:00,2008-02-12 00:00:00,primary,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Baltimore City,793,,,,2008
