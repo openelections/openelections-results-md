@@ -1,0 +1,401 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:25:55.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Allegany,2290,,,,2012
+2014-06-26 17:25:55.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Allegany,1120,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Allegany,992,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Allegany,24,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Allegany,12,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Allegany,433,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Allegany,42,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Allegany,24,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Allegany,2781,,,,2012
+2014-06-26 17:25:57.750000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Allegany,2372,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,2682,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,340,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,8725,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,1767,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,6160,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,1386,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,2101,,,,2012
+2014-06-26 17:26:13.965000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,457,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Anne Arundel,239,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Anne Arundel,15,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Anne Arundel,5,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Anne Arundel,241,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Anne Arundel,8,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Anne Arundel,8,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Anne Arundel,1043,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Anne Arundel,665,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Anne Arundel,1261,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Anne Arundel,69,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Anne Arundel,18,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Anne Arundel,1047,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Anne Arundel,58,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Anne Arundel,39,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Anne Arundel,5750,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Anne Arundel,2675,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Anne Arundel,1633,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Anne Arundel,68,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Anne Arundel,21,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Anne Arundel,1193,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Anne Arundel,44,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Anne Arundel,55,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Anne Arundel,8255,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Anne Arundel,3452,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Anne Arundel,444,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Anne Arundel,20,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Anne Arundel,5,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Anne Arundel,333,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Anne Arundel,9,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Anne Arundel,13,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Anne Arundel,2165,,,,2012
+2014-06-26 17:26:19.971000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Anne Arundel,1028,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,1489,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,756,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,17577,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,3841,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,6282,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,1941,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,12751,,,,2012
+2014-06-26 17:26:39.746000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,1568,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore,480,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore,18,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore,3,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore,626,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore,9,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore,11,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore,2133,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore,1155,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore,1601,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore,64,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore,15,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore,1875,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore,84,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore,48,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore,7149,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore,3810,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore,567,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore,29,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore,6,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore,573,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore,21,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore,19,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore,3073,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore,1380,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore,913,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore,42,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore,14,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore,1027,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore,26,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore,25,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore,4399,,,,2012
+2014-06-26 17:26:46.584000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore,2024,,,,2012
+2014-06-26 17:26:50.302000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Calvert,2946,,,,2012
+2014-06-26 17:26:50.302000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Calvert,626,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Calvert,665,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Calvert,28,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Calvert,7,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Calvert,391,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Calvert,26,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Calvert,12,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Calvert,2834,,,,2012
+2014-06-26 17:26:51.635000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Calvert,1733,,,,2012
+2014-06-26 17:26:54.012000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Caroline,802,,,,2012
+2014-06-26 17:26:54.012000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Caroline,295,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Caroline,289,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Caroline,7,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Caroline,1,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Caroline,197,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Caroline,18,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Caroline,16,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Caroline,817,,,,2012
+2014-06-26 17:26:55.091000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Caroline,767,,,,2012
+2014-06-26 17:26:59.331000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Carroll,940,,,,2012
+2014-06-26 17:26:59.331000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Carroll,395,,,,2012
+2014-06-26 17:26:59.331000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Carroll,1923,,,,2012
+2014-06-26 17:26:59.331000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Carroll,584,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Carroll,572,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Carroll,17,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Carroll,4,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Carroll,714,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Carroll,10,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Carroll,12,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Carroll,2201,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Carroll,2017,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Carroll,941,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Carroll,38,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Carroll,15,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Carroll,1057,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Carroll,30,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Carroll,16,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Carroll,3801,,,,2012
+2014-06-26 17:27:01.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Carroll,2888,,,,2012
+2014-06-26 17:27:04.287000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Cecil,2501,,,,2012
+2014-06-26 17:27:04.287000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Cecil,1339,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Cecil,734,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Cecil,40,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Cecil,9,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Cecil,717,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Cecil,43,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Cecil,18,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Cecil,3132,,,,2012
+2014-06-26 17:27:05.518000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Cecil,2333,,,,2012
+2014-06-26 17:27:10.811000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Charles,7498,,,,2012
+2014-06-26 17:27:10.811000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Charles,734,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Charles,590,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Charles,13,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Charles,8,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Charles,397,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Charles,17,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Charles,14,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Charles,2635,,,,2012
+2014-06-26 17:27:12.789000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Charles,1715,,,,2012
+2014-06-26 17:27:17.026000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Dorchester,1184,,,,2012
+2014-06-26 17:27:17.026000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Dorchester,364,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Dorchester,315,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Dorchester,10,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Dorchester,3,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Dorchester,147,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Dorchester,10,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Dorchester,15,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Dorchester,1037,,,,2012
+2014-06-26 17:27:18.674000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Dorchester,660,,,,2012
+2014-06-26 17:27:26.644000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Frederick,5726,,,,2012
+2014-06-26 17:27:26.644000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Frederick,853,,,,2012
+2014-06-26 17:27:26.644000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Frederick,4148,,,,2012
+2014-06-26 17:27:26.644000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Frederick,1055,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Frederick,896,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Frederick,47,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Frederick,18,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Frederick,730,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Frederick,32,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Frederick,19,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Frederick,3293,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Frederick,2269,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Frederick,1502,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Frederick,67,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Frederick,13,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Frederick,1017,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Frederick,57,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Frederick,47,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Frederick,5121,,,,2012
+2014-06-26 17:27:29.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Frederick,3799,,,,2012
+2014-06-26 17:27:33.308000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Garrett,673,,,,2012
+2014-06-26 17:27:33.308000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Garrett,285,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Garrett,299,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Garrett,21,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Garrett,2,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Garrett,244,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Garrett,23,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Garrett,24,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Garrett,1202,,,,2012
+2014-06-26 17:27:34.808000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Garrett,1815,,,,2012
+2014-06-26 17:27:42.140000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Harford,3850,,,,2012
+2014-06-26 17:27:42.140000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Harford,1807,,,,2012
+2014-06-26 17:27:42.140000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Harford,3202,,,,2012
+2014-06-26 17:27:42.140000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Harford,562,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Harford,1489,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Harford,59,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Harford,10,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Harford,1870,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Harford,63,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Harford,44,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Harford,6793,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Harford,4242,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Harford,451,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Harford,20,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Harford,14,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Harford,602,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Harford,23,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Harford,16,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Harford,1872,,,,2012
+2014-06-26 17:27:44.953000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Harford,1107,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Howard,1411,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Howard,150,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Howard,5417,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Howard,551,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Howard,9431,,,,2012
+2014-06-26 17:27:55.543000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Howard,1317,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Howard,114,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Howard,15,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Howard,6,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Howard,163,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Howard,5,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Howard,4,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Howard,575,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Howard,412,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Howard,373,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Howard,41,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Howard,8,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Howard,436,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Howard,18,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Howard,14,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Howard,2215,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Howard,976,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Howard,1021,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Howard,85,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Howard,9,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Howard,933,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Howard,37,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Howard,35,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Howard,5671,,,,2012
+2014-06-26 17:27:59.345000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Howard,2339,,,,2012
+2014-06-26 17:28:02.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Kent,1169,,,,2012
+2014-06-26 17:28:02.092000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Kent,270,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Kent,169,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Kent,14,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Kent,1,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Kent,140,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Kent,11,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Kent,10,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Kent,916,,,,2012
+2014-06-26 17:28:03.089000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Kent,435,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Montgomery,5188,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Montgomery,401,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Montgomery,18338,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Montgomery,1687,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Montgomery,30544,,,,2012
+2014-06-26 17:28:23.293000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Montgomery,2088,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Montgomery,318,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Montgomery,29,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Montgomery,3,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Montgomery,231,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Montgomery,10,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Montgomery,10,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Montgomery,1809,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Montgomery,839,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Montgomery,999,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Montgomery,108,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Montgomery,22,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Montgomery,866,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Montgomery,43,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Montgomery,46,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Montgomery,6880,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Montgomery,2947,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Montgomery,1083,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Montgomery,175,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Montgomery,32,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Montgomery,951,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Montgomery,46,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Montgomery,54,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Montgomery,8783,,,,2012
+2014-06-26 17:28:31.029000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Montgomery,2836,,,,2012
+2014-06-26 17:28:51.300000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Prince George's,39488,,,,2012
+2014-06-26 17:28:51.300000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Prince George's,819,,,,2012
+2014-06-26 17:28:51.300000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Prince George's,24921,,,,2012
+2014-06-26 17:28:51.300000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Prince George's,1101,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Prince George's,401,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Prince George's,33,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Prince George's,17,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Prince George's,311,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Prince George's,20,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Prince George's,27,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Prince George's,1503,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Prince George's,925,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Prince George's,578,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Prince George's,37,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Prince George's,18,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Prince George's,473,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Prince George's,36,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Prince George's,37,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Prince George's,2358,,,,2012
+2014-06-26 17:28:59.530000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Prince George's,1710,,,,2012
+2014-06-26 17:29:02.671000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Queen Anne's,1419,,,,2012
+2014-06-26 17:29:02.671000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Queen Anne's,420,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Queen Anne's,568,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Queen Anne's,25,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Queen Anne's,1,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Queen Anne's,353,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Queen Anne's,14,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Queen Anne's,18,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Queen Anne's,2331,,,,2012
+2014-06-26 17:29:04.095000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Queen Anne's,1257,,,,2012
+2014-06-26 17:29:07.996000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Somerset,586,,,,2012
+2014-06-26 17:29:07.996000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Somerset,200,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Somerset,216,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Somerset,4,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Somerset,1,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Somerset,63,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Somerset,11,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Somerset,3,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Somerset,466,,,,2012
+2014-06-26 17:29:09.450000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Somerset,592,,,,2012
+2014-06-26 17:29:13.681000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,St. Mary's,3649,,,,2012
+2014-06-26 17:29:13.681000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,St. Mary's,1442,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,St. Mary's,897,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,St. Mary's,27,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,St. Mary's,7,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,St. Mary's,648,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,St. Mary's,43,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,St. Mary's,32,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,St. Mary's,3241,,,,2012
+2014-06-26 17:29:15.310000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,St. Mary's,2514,,,,2012
+2014-06-26 17:29:18.142000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Talbot,1820,,,,2012
+2014-06-26 17:29:18.142000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Talbot,305,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Talbot,434,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Talbot,22,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Talbot,5,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Talbot,273,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Talbot,14,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Talbot,12,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Talbot,2266,,,,2012
+2014-06-26 17:29:19.403000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Talbot,746,,,,2012
+2014-06-26 17:29:25.288000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Washington,5004,,,,2012
+2014-06-26 17:29:25.288000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Washington,1689,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Washington,1426,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Washington,69,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Washington,15,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Washington,978,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Washington,72,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Washington,40,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Washington,5259,,,,2012
+2014-06-26 17:29:28.003000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Washington,4473,,,,2012
+2014-06-26 17:29:32.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Wicomico,2723,,,,2012
+2014-06-26 17:29:32.952000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Wicomico,654,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Wicomico,754,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Wicomico,27,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Wicomico,4,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Wicomico,441,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Wicomico,32,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Wicomico,10,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Wicomico,2425,,,,2012
+2014-06-26 17:29:34.850000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Wicomico,2129,,,,2012
+2014-06-26 17:29:38.183000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Worcester,1860,,,,2012
+2014-06-26 17:29:38.183000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Worcester,512,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Worcester,531,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Worcester,8,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Worcester,3,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Worcester,264,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Worcester,12,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Worcester,24,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Worcester,2279,,,,2012
+2014-06-26 17:29:39.601000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Worcester,1163,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore City,3731,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore City,220,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore City,8113,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore City,1215,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore City,28504,,,,2012
+2014-06-26 17:30:04.740000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore City,588,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore City,67,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore City,2,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore City,2,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore City,62,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore City,7,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore City,4,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore City,148,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore City,169,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore City,261,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore City,16,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore City,4,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore City,366,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore City,12,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore City,16,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore City,1367,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore City,643,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Newt Gingrich,,,,,REP,Baltimore City,157,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Jon Huntsman,,,,,REP,Baltimore City,31,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Fred Karger,,,,,REP,Baltimore City,16,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Ron Paul,,,,,REP,Baltimore City,226,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Perry,,,,,REP,Baltimore City,12,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Buddy Roemer,,,,,REP,Baltimore City,10,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Mitt Romney,,,,,REP,Baltimore City,422,,,,2012
+2014-06-26 17:30:13.158000,md-2012-04-03-primary,2012-04-03 00:00:00,2012-04-03 00:00:00,primary,certified,False,President - Vice Pres,,Rick Santorum,,,,,REP,Baltimore City,338,,,,2012
