@@ -1,0 +1,751 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Allegany,10693,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Allegany,18405,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Allegany,82,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Allegany,128,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Allegany,294,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Allegany,63,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Allegany,2,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Allegany,0,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Allegany,75,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Allegany,10478,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Allegany,17088,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Allegany,610,,,,2008
+2014-06-26 17:18:02.689000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Allegany,14,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Anne Arundel,125015,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Anne Arundel,129682,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Anne Arundel,472,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Anne Arundel,1217,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Anne Arundel,1760,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Anne Arundel,452,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Anne Arundel,1,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Anne Arundel,9,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Anne Arundel,0,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Anne Arundel,1011,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Anne Arundel,27768,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Anne Arundel,30682,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Anne Arundel,1509,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Anne Arundel,67,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Anne Arundel,27718,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Anne Arundel,14219,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Lorenzo Gaztanaga,,,,,LIB,Anne Arundel,1344,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Other Write-Ins,,,,,BOT,Anne Arundel,84,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Anne Arundel,68110,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Anne Arundel,41236,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Other Write-Ins,,,,,BOT,Anne Arundel,288,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Anne Arundel,14859,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Anne Arundel,11927,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Darlene H. Nicholas,,,,,LIB,Anne Arundel,950,,,,2008
+2014-06-26 17:18:10.835000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Other Write-Ins,,,,,BOT,Anne Arundel,27,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore,214151,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Baltimore,158714,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Baltimore,912,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Baltimore,1893,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Baltimore,2685,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Baltimore,612,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Baltimore,1,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Baltimore,6,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Baltimore,2,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Baltimore,1,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Baltimore,1,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Baltimore,0,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Baltimore,9,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Baltimore,1951,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Baltimore,15158,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Baltimore,21157,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Baltimore,917,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Baltimore,27,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore,111207,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Baltimore,40457,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Lorenzo Gaztanaga,,,,,LIB,Baltimore,5051,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Other Write-Ins,,,,,BOT,Baltimore,215,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Baltimore,59469,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Baltimore,24032,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Other Write-Ins,,,,,BOT,Baltimore,203,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Baltimore,6128,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Baltimore,11110,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Baltimore,666,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Baltimore,17,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Baltimore,47383,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Baltimore,11416,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ronald M. Owens-Bey,,,,,LIB,Baltimore,1004,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ray Bly,,,,,UNF,Baltimore,1,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Charles U. Smith,,,,,UNF,Baltimore,3,,,,2008
+2014-06-26 17:18:25.004000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Other Write-Ins,,,,,BOT,Baltimore,42,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Calvert,20299,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Calvert,23095,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Calvert,69,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Calvert,117,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Calvert,296,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Calvert,51,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Calvert,0,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Calvert,130,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Calvert,25553,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Calvert,15658,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Darlene H. Nicholas,,,,,LIB,Calvert,1033,,,,2008
+2014-06-26 17:18:33.881000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Other Write-Ins,,,,,BOT,Calvert,42,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Caroline,4971,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Caroline,8015,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Caroline,20,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Caroline,44,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Caroline,92,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Caroline,36,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Caroline,3,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Caroline,0,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Caroline,37,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Caroline,6702,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Caroline,5782,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Caroline,398,,,,2008
+2014-06-26 17:18:36.163000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Caroline,18,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Carroll,28060,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Carroll,54503,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Carroll,156,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Carroll,513,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Carroll,627,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Carroll,268,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Carroll,1,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Carroll,1,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Carroll,1,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Carroll,2,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Carroll,1,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Carroll,0,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Carroll,1,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Carroll,626,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Carroll,26162,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Carroll,51006,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Carroll,2484,,,,2008
+2014-06-26 17:18:39.171000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Carroll,96,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Cecil,17665,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Cecil,23855,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Cecil,87,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Cecil,247,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Cecil,414,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Cecil,101,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Cecil,1,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Cecil,0,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Cecil,124,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Cecil,20089,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Cecil,19242,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Cecil,1283,,,,2008
+2014-06-26 17:18:42.617000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Cecil,35,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Charles,43635,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Charles,25732,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Charles,73,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Charles,137,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Charles,323,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Charles,66,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Charles,5,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Charles,1,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Charles,0,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Charles,155,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Charles,48194,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Charles,18606,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Darlene H. Nicholas,,,,,LIB,Charles,1270,,,,2008
+2014-06-26 17:18:45.589000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Other Write-Ins,,,,,BOT,Charles,52,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Dorchester,6912,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Dorchester,8168,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Dorchester,31,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Dorchester,35,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Dorchester,84,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Dorchester,13,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Dorchester,0,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Dorchester,31,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Dorchester,8344,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Dorchester,5961,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Dorchester,428,,,,2008
+2014-06-26 17:18:48.889000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Dorchester,10,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Frederick,54013,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Frederick,55170,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Frederick,193,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Frederick,509,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Frederick,714,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Frederick,219,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Frederick,2,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Frederick,1,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Frederick,7,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Frederick,3,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Frederick,1,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Frederick,0,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Frederick,354,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Frederick,47797,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Frederick,55789,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Frederick,3837,,,,2008
+2014-06-26 17:18:53.211000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Frederick,142,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Garrett,3736,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Garrett,8903,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Garrett,17,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Garrett,37,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Garrett,105,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Garrett,36,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Garrett,0,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Garrett,38,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Garrett,3663,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Garrett,8445,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Garrett,254,,,,2008
+2014-06-26 17:18:57.356000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Garrett,2,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Harford,48552,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Harford,71751,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Harford,227,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Harford,833,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Harford,954,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Harford,278,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Harford,1,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Harford,3,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Harford,1,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Harford,1,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Harford,0,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Harford,694,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Harford,26276,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Harford,36605,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Harford,1832,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Harford,54,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Harford,24843,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Harford,11205,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Lorenzo Gaztanaga,,,,,LIB,Harford,1247,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Other Write-Ins,,,,,BOT,Harford,59,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Harford,5008,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Harford,10186,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Harford,685,,,,2008
+2014-06-26 17:19:01.821000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Harford,23,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Howard,87120,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Howard,55393,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Howard,253,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Howard,752,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Howard,848,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Howard,260,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Howard,3,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Howard,15,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Howard,1,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Howard,0,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Howard,588,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Howard,26987,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Howard,10952,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Other Write-Ins,,,,,BOT,Howard,84,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Howard,57299,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Howard,37481,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ronald M. Owens-Bey,,,,,LIB,Howard,2358,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ray Bly,,,,,UNF,Howard,11,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Charles U. Smith,,,,,UNF,Howard,3,,,,2008
+2014-06-26 17:19:09.513000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Other Write-Ins,,,,,BOT,Howard,119,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Kent,4953,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Kent,4905,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Kent,18,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Kent,41,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Kent,69,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Kent,15,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Kent,0,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Kent,19,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Kent,6406,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Kent,3182,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Kent,175,,,,2008
+2014-06-26 17:19:14.892000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Kent,12,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Montgomery,314444,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Montgomery,118608,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Montgomery,744,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Montgomery,1335,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Montgomery,2121,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Montgomery,448,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Montgomery,1,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Montgomery,16,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Montgomery,1,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Montgomery,2,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Montgomery,0,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Montgomery,1,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Montgomery,1,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Montgomery,1539,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Donna Edwards,,,,,DEM,Montgomery,83019,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Peter James,,,,,REP,Montgomery,31161,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Thibeaux Lincecum,,,,,LIB,Montgomery,2354,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Bobby Broadus,,,,,UNF,Montgomery,36,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,"Darryn O`Shea Jackson, Sr.",,,,,UNF,Montgomery,14,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Steve Schulin,,,,,UNF,Montgomery,70,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Other Write-Ins,,,,,BOT,Montgomery,260,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Montgomery,4694,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Montgomery,5024,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Montgomery,201,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Montgomery,11,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Chris Van Hollen,,,,,DEM,Montgomery,218111,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Steve Hudson,,,,,REP,Montgomery,65626,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Gordon Clark,,,,,GRN,Montgomery,6370,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Ian Thomas,,,,,LIB,Montgomery,2464,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Deborah A. Vollmer,,,,,UNF,Montgomery,187,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Lih Young,,,,,UNF,Montgomery,28,,,,2008
+2014-06-26 17:19:25.983000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Other Write-Ins,,,,,BOT,Montgomery,306,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Prince George's,331924,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Prince George's,38665,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Prince George's,458,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Prince George's,513,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Prince George's,961,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Prince George's,302,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Prince George's,2,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Prince George's,19,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Prince George's,3,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Prince George's,1,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Prince George's,529,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Donna Edwards,,,,,DEM,Prince George's,175685,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Peter James,,,,,REP,Prince George's,7578,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Thibeaux Lincecum,,,,,LIB,Prince George's,1030,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Bobby Broadus,,,,,UNF,Prince George's,12,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,"Darryn O`Shea Jackson, Sr.",,,,,UNF,Prince George's,14,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Steve Schulin,,,,,UNF,Prince George's,5,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,04,Other Write-Ins,,,,,BOT,Prince George's,193,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,Prince George's,138201,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,Prince George's,20949,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Darlene H. Nicholas,,,,,LIB,Prince George's,3602,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Other Write-Ins,,,,,BOT,Prince George's,221,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Chris Van Hollen,,,,,DEM,Prince George's,11558,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Steve Hudson,,,,,REP,Prince George's,719,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Gordon Clark,,,,,GRN,Prince George's,455,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Ian Thomas,,,,,LIB,Prince George's,98,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Deborah A. Vollmer,,,,,UNF,Prince George's,1,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Lih Young,,,,,UNF,Prince George's,0,,,,2008
+2014-06-26 17:19:42.912000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,08,Other Write-Ins,,,,,BOT,Prince George's,11,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Queen Anne's,8575,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Queen Anne's,15087,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Queen Anne's,26,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Queen Anne's,78,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Queen Anne's,147,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Queen Anne's,52,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Queen Anne's,0,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Queen Anne's,80,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Queen Anne's,12752,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Queen Anne's,10426,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Queen Anne's,416,,,,2008
+2014-06-26 17:19:52.044000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Queen Anne's,17,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Somerset,4779,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Somerset,5037,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Somerset,17,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Somerset,27,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Somerset,46,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Somerset,8,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Somerset,1,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Somerset,0,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Somerset,9,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Somerset,5668,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Somerset,3775,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Somerset,177,,,,2008
+2014-06-26 17:19:54.678000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Somerset,4,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,St. Mary's,19023,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,St. Mary's,24705,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,St. Mary's,72,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,St. Mary's,163,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,St. Mary's,261,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,St. Mary's,84,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,St. Mary's,0,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,St. Mary's,101,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Steny H. Hoyer,,,,,DEM,St. Mary's,26634,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Collins Bailey,,,,,REP,St. Mary's,15386,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Darlene H. Nicholas,,,,,LIB,St. Mary's,967,,,,2008
+2014-06-26 17:19:57.823000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,05,Other Write-Ins,,,,,BOT,St. Mary's,35,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Talbot,9035,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Talbot,10995,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Talbot,26,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Talbot,91,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Talbot,109,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Talbot,26,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Talbot,0,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Talbot,46,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Talbot,10985,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Talbot,8533,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Talbot,372,,,,2008
+2014-06-26 17:20:00.400000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Talbot,21,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Washington,26245,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Washington,34169,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Washington,106,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Washington,261,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Washington,480,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Washington,102,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Washington,1,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Washington,0,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Washington,236,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Jennifer P. Dougherty,,,,,DEM,Washington,24277,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Roscoe Bartlett,,,,,REP,Washington,32278,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,"Gary W. Hoover, Sr.",,,,,LIB,Washington,2323,,,,2008
+2014-06-26 17:20:03.665000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,06,Other Write-Ins,,,,,BOT,Washington,37,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Wicomico,19436,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Wicomico,21849,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Wicomico,59,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Wicomico,121,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Wicomico,246,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Wicomico,43,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Wicomico,2,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Wicomico,1,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Wicomico,1,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Wicomico,0,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Wicomico,96,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Wicomico,22841,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Wicomico,17023,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Wicomico,834,,,,2008
+2014-06-26 17:20:07.853000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Wicomico,36,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Worcester,11374,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Worcester,15607,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Worcester,49,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Worcester,72,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Worcester,168,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Worcester,27,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Worcester,0,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Worcester,49,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,"Frank M. Kratovil, Jr.",,,,,DEM,Worcester,14076,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Andy Harris,,,,,REP,Worcester,11845,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Richard James Davis,,,,,LIB,Worcester,532,,,,2008
+2014-06-26 17:20:11.186000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,01,Other Write-Ins,,,,,BOT,Worcester,28,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Barack Obama,,,,,DEM,Baltimore City,214385,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,John McCain,,,,,REP,Baltimore City,28681,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Cynthia McKinney,,,,,GRN,Baltimore City,578,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Bob Barr,,,,,LIB,Baltimore City,675,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ralph Nader,,,,,IND,Baltimore City,906,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Chuck Baldwin,,,,,CON,Baltimore City,197,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Donald K. Allen,,,,,UNF,Baltimore City,4,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Jose M. Aparicio,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lawson Mitchell Bone,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,"Theodis (Ted) Brown, Sr.",,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,James D. Criveau,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,RaeDeen R. Heupel,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Ronald G. Hobbs,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Charles Jay,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Keith Russell Judd,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Alan Keyes,,,,,UNF,Baltimore City,16,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Monroe Lee,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Brian Moore,,,,,UNF,Baltimore City,1,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Frank Moore,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Joe Schriner,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,David Jon Sponheim,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Lynne A. Starr,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Blaine Taylor,,,,,UNF,Baltimore City,0,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,President - Vice Pres,,Other Write-Ins,,,,,BOT,Baltimore City,525,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore City,34810,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Richard Pryce Matthews,,,,,REP,Baltimore City,2680,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Lorenzo Gaztanaga,,,,,LIB,Baltimore City,1144,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,02,Other Write-Ins,,,,,BOT,Baltimore City,50,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,John P. Sarbanes,,,,,DEM,Baltimore City,49145,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Thomas E. Pinkston Harris,,,,,REP,Baltimore City,11751,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,03,Other Write-Ins,,,,,BOT,Baltimore City,191,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Elijah Cummings,,,,,DEM,Baltimore City,122697,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Michael T. Hargadon,,,,,REP,Baltimore City,4250,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ronald M. Owens-Bey,,,,,LIB,Baltimore City,1852,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Ray Bly,,,,,UNF,Baltimore City,1,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Charles U. Smith,,,,,UNF,Baltimore City,2,,,,2008
+2014-06-26 17:20:22.602000,md-2008-11-04-general,2008-11-04 00:00:00,2008-11-04 00:00:00,general,certified,False,U.S. Congress,07,Other Write-Ins,,,,,BOT,Baltimore City,98,,,,2008
