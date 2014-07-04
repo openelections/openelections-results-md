@@ -1,0 +1,844 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,division,votes,total_votes,winner,write_in,year
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Allegany,33,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Allegany,80,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Allegany,24,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Allegany,83,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Allegany,131,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Allegany,1805,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Allegany,34,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Allegany,89,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Allegany,3112,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Allegany,79,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Allegany,48,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Allegany,251,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Allegany,526,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Allegany,193,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Allegany,4794,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Allegany,242,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Allegany,119,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Allegany,579,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Allegany,161,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Allegany,1359,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Allegany,1020,,,,2004
+2014-06-26 17:11:25.760000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Allegany,560,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Allegany,5592,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Allegany,86,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Allegany,2054,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Allegany,649,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Allegany,98,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Allegany,219,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Allegany,379,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Allegany,268,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Allegany,125,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Allegany,269,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Allegany,4787,,,,2004
+2014-06-26 17:11:26.438000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Allegany,1394,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Anne Arundel,199,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Anne Arundel,510,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Anne Arundel,140,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Anne Arundel,384,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Anne Arundel,1098,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Anne Arundel,12401,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Anne Arundel,247,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Anne Arundel,415,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Anne Arundel,22395,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Anne Arundel,626,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Anne Arundel,1237,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Anne Arundel,992,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Anne Arundel,1301,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Anne Arundel,33728,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Anne Arundel,3361,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Anne Arundel,2236,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Anne Arundel,845,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Anne Arundel,1372,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Anne Arundel,2710,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Anne Arundel,5485,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Anne Arundel,14802,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,John Rea,,,,,DEM,Anne Arundel,2910,,,,2004
+2014-06-26 17:11:35.173000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Anne Arundel,3343,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Anne Arundel,19808,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Anne Arundel,1731,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Anne Arundel,500,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Anne Arundel,9824,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Anne Arundel,1132,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Anne Arundel,680,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Anne Arundel,1537,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Anne Arundel,1071,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Anne Arundel,759,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Anne Arundel,1455,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Anne Arundel,2702,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Anne Arundel,4348,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Anne Arundel,865,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Dave Harvilicz,,,,,REP,Anne Arundel,580,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Michael J. Littleton,,,,,REP,Anne Arundel,998,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Anne Arundel,7684,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Rick Hoover,,,,,REP,Anne Arundel,802,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Armand F. Girard,,,,,REP,Anne Arundel,460,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Patrick Edward Flaherty,,,,,REP,Anne Arundel,634,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Joseph T. Crawford,,,,,REP,Anne Arundel,627,,,,2004
+2014-06-26 17:11:37.890000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Anne Arundel,682,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Baltimore,354,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Baltimore,1384,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Baltimore,722,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Baltimore,1824,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Baltimore,20859,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Baltimore,429,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Baltimore,837,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Baltimore,45017,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Baltimore,1178,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Baltimore,3331,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Baltimore,360,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore,2411,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Baltimore,65892,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Baltimore,6271,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Baltimore,2812,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Baltimore,738,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Baltimore,1810,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Baltimore,1506,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Baltimore,655,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore,26862,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Baltimore,18861,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,John Rea,,,,,DEM,Baltimore,1549,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Baltimore,1095,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Baltimore,127,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Baltimore,189,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Baltimore,118,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Baltimore,46,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Baltimore,260,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Baltimore,151,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Baltimore,12507,,,,2004
+2014-06-26 17:11:47.749000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,"Charles Curtis McPeek, Sr.",,,,,DEM,Baltimore,1329,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Baltimore,19773,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Baltimore,1284,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Baltimore,634,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Baltimore,12263,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Baltimore,1044,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Baltimore,707,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Baltimore,1165,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Baltimore,681,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Baltimore,554,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Baltimore,1145,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Baltimore,1308,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Baltimore,2136,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Baltimore,4818,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Michael J. Littleton,,,,,REP,Baltimore,1314,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Dave Harvilicz,,,,,REP,Baltimore,2312,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Baltimore,2889,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Armand F. Girard,,,,,REP,Baltimore,420,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Rick Hoover,,,,,REP,Baltimore,735,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Baltimore,1328,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Baltimore,371,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Joseph E. Ward,,,,,REP,Baltimore,1099,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Almaajid Muhammad El,,,,,REP,Baltimore,94,,,,2004
+2014-06-26 17:11:51.223000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Baltimore,805,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Calvert,8,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Calvert,41,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Calvert,14,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Calvert,52,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Calvert,170,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Calvert,1434,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Calvert,20,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Calvert,36,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Calvert,2686,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Calvert,71,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Calvert,108,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Calvert,76,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Calvert,3934,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Calvert,321,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Calvert,123,,,,2004
+2014-06-26 17:11:52.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Calvert,4043,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Calvert,1741,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Calvert,55,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Calvert,872,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Calvert,179,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Calvert,76,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Calvert,126,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Calvert,73,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Calvert,100,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Calvert,65,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Calvert,132,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Patrick Edward Flaherty,,,,,REP,Calvert,480,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Calvert,829,,,,2004
+2014-06-26 17:11:52.954000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Joseph T. Crawford,,,,,REP,Calvert,373,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Caroline,8,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Caroline,21,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Caroline,12,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Caroline,17,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Caroline,60,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Caroline,649,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Caroline,12,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Caroline,38,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Caroline,882,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Caroline,14,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Caroline,42,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Caroline,60,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Caroline,1537,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Caroline,145,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Caroline,62,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Caroline,263,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Caroline,358,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Caroline,427,,,,2004
+2014-06-26 17:11:53.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Caroline,328,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Caroline,1522,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Caroline,37,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Caroline,1173,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Caroline,63,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Caroline,44,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Caroline,30,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Caroline,72,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Caroline,36,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Caroline,16,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Caroline,46,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Caroline,854,,,,2004
+2014-06-26 17:11:53.709000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Caroline,814,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Carroll,52,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Carroll,141,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Carroll,24,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Carroll,98,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Carroll,272,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Carroll,3379,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Carroll,64,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Carroll,104,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Carroll,4595,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Carroll,142,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Carroll,131,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Carroll,268,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Carroll,954,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Carroll,360,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Carroll,7582,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Carroll,354,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Carroll,137,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Carroll,793,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Carroll,2271,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Carroll,959,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Carroll,1748,,,,2004
+2014-06-26 17:11:55.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Carroll,866,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Carroll,8709,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Carroll,210,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Carroll,4275,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Carroll,846,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Carroll,435,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Carroll,375,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Carroll,540,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Carroll,359,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Carroll,255,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Carroll,546,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Carroll,6969,,,,2004
+2014-06-26 17:11:56.688000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Carroll,2269,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Cecil,25,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Cecil,75,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Cecil,29,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Cecil,82,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Cecil,181,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Cecil,1799,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Cecil,54,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Cecil,88,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Cecil,2684,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Cecil,40,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Cecil,50,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Cecil,192,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Cecil,4239,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Cecil,588,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Cecil,198,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Cecil,931,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Cecil,1218,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Cecil,692,,,,2004
+2014-06-26 17:11:57.748000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Cecil,1053,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Cecil,2748,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Cecil,46,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Cecil,2144,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Cecil,195,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Cecil,39,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Cecil,38,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Cecil,91,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Cecil,65,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Cecil,41,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Cecil,108,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Cecil,1237,,,,2004
+2014-06-26 17:11:58.084000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Cecil,1801,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Charles,39,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Charles,51,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Charles,61,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Charles,72,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Charles,152,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Charles,2352,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Charles,43,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Charles,74,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Charles,5038,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Charles,49,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Charles,465,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Charles,188,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Charles,7102,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Charles,706,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Charles,269,,,,2004
+2014-06-26 17:11:59.644000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Charles,7586,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Charles,2967,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Charles,169,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Charles,958,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Charles,420,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Charles,141,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Charles,148,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Charles,302,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Charles,230,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Charles,142,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Charles,279,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Charles,958,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Patrick Edward Flaherty,,,,,REP,Charles,647,,,,2004
+2014-06-26 17:12:00.244000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Joseph T. Crawford,,,,,REP,Charles,1339,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Dorchester,10,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Dorchester,20,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Dorchester,6,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Dorchester,15,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Dorchester,61,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Dorchester,745,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Dorchester,10,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Dorchester,34,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Dorchester,994,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Dorchester,21,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Dorchester,89,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Dorchester,52,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Dorchester,1774,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Dorchester,124,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Dorchester,67,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Dorchester,341,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Dorchester,312,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Dorchester,500,,,,2004
+2014-06-26 17:12:01.957000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Dorchester,264,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Dorchester,1406,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Dorchester,26,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Dorchester,818,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Dorchester,64,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Dorchester,44,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Dorchester,30,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Dorchester,106,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Dorchester,39,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Dorchester,13,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Dorchester,46,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Dorchester,854,,,,2004
+2014-06-26 17:12:02.550000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Dorchester,818,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Frederick,60,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Frederick,132,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Frederick,62,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Frederick,182,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Frederick,418,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Frederick,4615,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Frederick,86,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Frederick,99,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Frederick,8468,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Frederick,294,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Frederick,228,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Frederick,393,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Frederick,1029,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Frederick,428,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Frederick,12984,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Frederick,860,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Frederick,368,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Frederick,2190,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Frederick,1355,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Frederick,1566,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Frederick,1574,,,,2004
+2014-06-26 17:12:05.608000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Frederick,3105,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Frederick,14375,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Frederick,553,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Frederick,710,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Frederick,1162,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Frederick,1643,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Frederick,637,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Frederick,4688,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Frederick,990,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Frederick,433,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Frederick,929,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Frederick,9427,,,,2004
+2014-06-26 17:12:06.476000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Frederick,6310,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Garrett,3,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Garrett,10,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Garrett,2,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Garrett,29,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Garrett,39,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Garrett,436,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Garrett,8,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Garrett,30,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Garrett,746,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Garrett,20,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Garrett,8,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Garrett,41,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Garrett,129,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Garrett,49,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Garrett,1128,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Garrett,40,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Garrett,39,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Garrett,132,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Garrett,69,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Garrett,239,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Garrett,300,,,,2004
+2014-06-26 17:12:07.642000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Garrett,204,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Garrett,2534,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Garrett,72,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Garrett,599,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Garrett,375,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Garrett,77,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Garrett,113,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Garrett,195,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Garrett,202,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Garrett,98,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Garrett,153,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Garrett,2073,,,,2004
+2014-06-26 17:12:07.998000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Garrett,634,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Harford,153,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Harford,60,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Harford,179,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Harford,76,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Harford,480,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Harford,5253,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Harford,82,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Harford,178,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Harford,7978,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Harford,167,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Harford,408,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Harford,409,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Harford,12782,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Harford,1650,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Harford,482,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Harford,745,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Harford,2831,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Harford,1509,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Harford,1080,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Harford,4251,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Harford,642,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Harford,220,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Harford,76,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Harford,81,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Harford,40,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Harford,232,,,,2004
+2014-06-26 17:12:10.972000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Harford,178,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Harford,8351,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Harford,281,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Harford,4083,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Harford,838,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Harford,345,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Harford,544,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Harford,263,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Harford,443,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Harford,245,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Harford,668,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Harford,2444,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Harford,3029,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Harford,921,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Dave Harvilicz,,,,,REP,Harford,499,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Michael J. Littleton,,,,,REP,Harford,398,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Harford,1057,,,,2004
+2014-06-26 17:12:11.999000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Harford,239,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Howard,69,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Howard,261,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Howard,229,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Howard,747,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Howard,7224,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Howard,83,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Howard,117,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Howard,16459,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Howard,573,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Howard,931,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Howard,102,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Howard,396,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Howard,706,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Howard,23602,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Howard,1556,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,John Rea,,,,,DEM,Howard,694,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Howard,6946,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,"Charles Curtis McPeek, Sr.",,,,,DEM,Howard,2671,,,,2004
+2014-06-26 17:12:16.521000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Howard,14257,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Howard,8886,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Howard,437,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Howard,1178,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Howard,3283,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Howard,734,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Howard,542,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Howard,803,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Howard,451,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Howard,348,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Howard,649,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Rick Hoover,,,,,REP,Howard,480,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Howard,1298,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Armand F. Girard,,,,,REP,Howard,227,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Joseph E. Ward,,,,,REP,Howard,2564,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Almaajid Muhammad El,,,,,REP,Howard,184,,,,2004
+2014-06-26 17:12:18.004000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Howard,3887,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Kent,7,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Kent,19,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Kent,9,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Kent,20,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Kent,73,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Kent,653,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Kent,11,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Kent,34,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Kent,1115,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Kent,33,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Kent,34,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Kent,15,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Kent,1721,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Kent,163,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Kent,59,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Kent,353,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Kent,366,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Kent,455,,,,2004
+2014-06-26 17:12:18.702000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Kent,283,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Kent,1154,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Kent,18,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Kent,1042,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Kent,20,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Kent,17,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Kent,16,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Kent,35,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Kent,10,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Kent,5,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Kent,26,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Kent,245,,,,2004
+2014-06-26 17:12:18.938000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Kent,1053,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Montgomery,194,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Montgomery,1174,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Montgomery,591,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Montgomery,2570,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Montgomery,23534,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Montgomery,246,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Montgomery,335,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Montgomery,67715,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Montgomery,2719,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Montgomery,2028,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Montgomery,324,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Montgomery,757,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Montgomery,4324,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Montgomery,2806,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Montgomery,89340,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,George E. McDermott,,,,,DEM,Montgomery,5477,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,Albert R. Wynn,,,,,DEM,Montgomery,17196,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Montgomery,127,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Montgomery,48,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Montgomery,130,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Montgomery,190,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Montgomery,20,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Montgomery,258,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Montgomery,158,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Chris Van Hollen,,,,,DEM,Montgomery,65456,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Lih Young,,,,,DEM,Montgomery,1701,,,,2004
+2014-06-26 17:12:29.961000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Deborah A. Vollmer,,,,,DEM,Montgomery,4596,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Montgomery,20067,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Montgomery,2373,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Montgomery,861,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Montgomery,7409,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Montgomery,1003,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Montgomery,948,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Montgomery,2254,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Montgomery,1491,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Montgomery,1113,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Montgomery,1612,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"William R.  Bill"" Bernetich""",,,,,REP,Montgomery,583,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,John McKinnis,,,,,REP,Montgomery,1824,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Patrick A. Schaeffer, Jr.",,,,,REP,Montgomery,536,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Roscoe M. Moore, Jr.",,,,,REP,Montgomery,1125,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Floyd W. Anderson, Jr.",,,,,REP,Montgomery,431,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,John B. Kimble,,,,,REP,Montgomery,861,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Montgomery,432,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Montgomery,334,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Robin Ficker,,,,,REP,Montgomery,4193,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Chuck Floyd,,,,,REP,Montgomery,8693,,,,2004
+2014-06-26 17:12:33.628000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Steve Rosen,,,,,REP,Montgomery,2286,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Prince George's,199,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Prince George's,335,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Prince George's,428,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Prince George's,1399,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Prince George's,14944,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Prince George's,192,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Prince George's,496,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Prince George's,44641,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Prince George's,912,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Prince George's,7152,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Prince George's,596,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Prince George's,754,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Prince George's,4646,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Prince George's,1793,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Prince George's,61236,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,George E. McDermott,,,,,DEM,Prince George's,3791,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,Albert R. Wynn,,,,,DEM,Prince George's,31447,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,Prince George's,27538,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Chris Van Hollen,,,,,DEM,Prince George's,2349,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Lih Young,,,,,DEM,Prince George's,83,,,,2004
+2014-06-26 17:12:43.365000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Deborah A. Vollmer,,,,,DEM,Prince George's,251,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Prince George's,5615,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Prince George's,254,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Prince George's,2102,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Prince George's,683,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Prince George's,290,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Prince George's,331,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Prince George's,647,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Prince George's,412,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Prince George's,351,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Prince George's,672,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"William R.  Bill"" Bernetich""",,,,,REP,Prince George's,90,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,John McKinnis,,,,,REP,Prince George's,434,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Patrick A. Schaeffer, Jr.",,,,,REP,Prince George's,269,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Roscoe M. Moore, Jr.",,,,,REP,Prince George's,453,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,"Floyd W. Anderson, Jr.",,,,,REP,Prince George's,187,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,04,John B. Kimble,,,,,REP,Prince George's,270,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,Prince George's,1656,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Joseph T. Crawford,,,,,REP,Prince George's,1134,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Patrick Edward Flaherty,,,,,REP,Prince George's,1178,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Steve Rosen,,,,,REP,Prince George's,20,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Chuck Floyd,,,,,REP,Prince George's,85,,,,2004
+2014-06-26 17:12:46.803000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,08,Robin Ficker,,,,,REP,Prince George's,62,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Queen Anne's,11,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Queen Anne's,27,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Queen Anne's,12,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Queen Anne's,26,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Queen Anne's,126,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Queen Anne's,1161,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Queen Anne's,15,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Queen Anne's,32,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Queen Anne's,1602,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Queen Anne's,30,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Queen Anne's,43,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Queen Anne's,69,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Queen Anne's,2682,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Queen Anne's,272,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Queen Anne's,93,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Queen Anne's,498,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Queen Anne's,682,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Queen Anne's,955,,,,2004
+2014-06-26 17:12:47.581000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Queen Anne's,335,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Queen Anne's,2628,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Queen Anne's,31,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Queen Anne's,2375,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Queen Anne's,47,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Queen Anne's,55,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Queen Anne's,22,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Queen Anne's,84,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Queen Anne's,26,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Queen Anne's,17,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Queen Anne's,53,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Queen Anne's,903,,,,2004
+2014-06-26 17:12:47.888000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Queen Anne's,1902,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Somerset,9,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Somerset,26,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Somerset,16,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Somerset,14,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Somerset,48,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Somerset,542,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Somerset,14,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Somerset,46,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Somerset,773,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Somerset,14,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Somerset,49,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Somerset,21,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Somerset,1316,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Somerset,142,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Somerset,38,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Somerset,269,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Somerset,175,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Somerset,387,,,,2004
+2014-06-26 17:12:49.236000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Somerset,309,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Somerset,939,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Somerset,15,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Somerset,587,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Somerset,24,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Somerset,30,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Somerset,28,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Somerset,49,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Somerset,34,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Somerset,16,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Somerset,39,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Somerset,416,,,,2004
+2014-06-26 17:12:49.649000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Somerset,645,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,St. Mary's,40,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,St. Mary's,98,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,St. Mary's,32,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,St. Mary's,109,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,St. Mary's,214,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,St. Mary's,2360,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,St. Mary's,65,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,St. Mary's,100,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,St. Mary's,4203,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,St. Mary's,89,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,St. Mary's,178,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,St. Mary's,324,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,St. Mary's,6520,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,St. Mary's,649,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,St. Mary's,294,,,,2004
+2014-06-26 17:12:51.165000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Steny H. Hoyer,,,,,DEM,St. Mary's,6708,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,St. Mary's,4931,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,St. Mary's,206,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,St. Mary's,1396,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,St. Mary's,706,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,St. Mary's,222,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,St. Mary's,231,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,St. Mary's,410,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,St. Mary's,323,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,St. Mary's,196,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,St. Mary's,381,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Patrick Edward Flaherty,,,,,REP,St. Mary's,1312,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Brad Jewitt,,,,,REP,St. Mary's,1420,,,,2004
+2014-06-26 17:12:51.687000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,05,Joseph T. Crawford,,,,,REP,St. Mary's,1519,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Talbot,6,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Talbot,28,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Talbot,8,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Talbot,30,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Talbot,125,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Talbot,1030,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Talbot,17,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Talbot,29,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Talbot,1537,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Talbot,28,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Talbot,58,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Talbot,58,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Talbot,2566,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Talbot,181,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Talbot,75,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Talbot,537,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Talbot,467,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Talbot,719,,,,2004
+2014-06-26 17:12:52.679000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Talbot,477,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Talbot,2865,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Talbot,39,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Talbot,2206,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Talbot,90,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Talbot,48,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Talbot,54,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Talbot,133,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Talbot,49,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Talbot,45,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Talbot,84,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Talbot,1191,,,,2004
+2014-06-26 17:12:53.063000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Talbot,2055,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Washington,22,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Washington,87,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Washington,31,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Washington,105,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Washington,254,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Washington,2791,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Washington,84,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Washington,86,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Washington,4592,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Washington,130,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Washington,78,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Washington,197,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Washington,723,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Washington,303,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Washington,6997,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Ty Unglebower,,,,,DEM,Washington,283,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Robert J. Rhudy,,,,,DEM,Washington,212,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,James Daniel Benson,,,,,DEM,Washington,1080,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Richard Nacewicz,,,,,DEM,Washington,722,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kevin M. Shaffer,,,,,DEM,Washington,1017,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Kenneth T. Bosley,,,,,DEM,Washington,1198,,,,2004
+2014-06-26 17:12:55.491000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Rodney D. Fox,,,,,DEM,Washington,1494,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Washington,7071,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Washington,292,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Washington,1807,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Washington,691,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Washington,192,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Washington,350,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Washington,537,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Washington,508,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Washington,266,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Washington,516,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Roscoe G. Bartlett,,,,,REP,Washington,5794,,,,2004
+2014-06-26 17:12:56.289000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,06,Scott L. Rolle,,,,,REP,Washington,1930,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Wicomico,20,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Wicomico,65,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Wicomico,31,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Wicomico,40,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Wicomico,144,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Wicomico,1978,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Wicomico,33,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Wicomico,61,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Wicomico,3102,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Wicomico,62,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Wicomico,204,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Wicomico,139,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Wicomico,5092,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Wicomico,453,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Wicomico,144,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Wicomico,964,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Wicomico,894,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Wicomico,1424,,,,2004
+2014-06-26 17:12:57.944000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Wicomico,968,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Wicomico,3815,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Wicomico,82,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Wicomico,2104,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Wicomico,217,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Wicomico,87,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Wicomico,115,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Wicomico,213,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Wicomico,176,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Wicomico,87,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Wicomico,230,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Wicomico,1503,,,,2004
+2014-06-26 17:12:58.584000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Wicomico,2768,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Worcester,11,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Worcester,66,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Worcester,20,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Worcester,42,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Worcester,109,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Worcester,1487,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Worcester,31,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Worcester,71,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Worcester,2423,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Worcester,52,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Worcester,94,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Worcester,114,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Worcester,3926,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Worcester,314,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Worcester,117,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Steven R. Eastaugh,,,,,DEM,Worcester,805,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Kostas Alexakis,,,,,DEM,Worcester,909,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Ann D. Tamlyn,,,,,DEM,Worcester,1056,,,,2004
+2014-06-26 17:13:00.433000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Harry E. Sampson,,,,,DEM,Worcester,667,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Worcester,2832,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Worcester,75,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Worcester,1395,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Worcester,207,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Worcester,78,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Worcester,106,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Worcester,207,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Worcester,137,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Worcester,64,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Worcester,157,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Richard F. Colburn,,,,,REP,Worcester,851,,,,2004
+2014-06-26 17:13:00.818000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,01,Wayne T. Gilchrest,,,,,REP,Worcester,2221,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Lyndon H. LaRouche, Jr.",,,,,DEM,Baltimore City,116,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Joseph Lieberman,,,,,DEM,Baltimore City,415,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Wesley K. Clark,,,,,DEM,Baltimore City,707,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Howard Dean,,,,,DEM,Baltimore City,1766,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John Edwards,,,,,DEM,Baltimore City,9575,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dick Gephardt,,,,,DEM,Baltimore City,266,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Mildred Glover,,,,,DEM,Baltimore City,610,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,John F. Kerry,,,,,DEM,Baltimore City,34198,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Dennis J. Kucinich,,,,,DEM,Baltimore City,1350,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,"Alfred Sharpton, Jr.",,,,,DEM,Baltimore City,4816,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Carol Moseley Braun,,,,,DEM,Baltimore City,818,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,Uncommitted To Any Presidential Candidate,,,,,DEM,Baltimore City,350,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,A. Robert Kaufman,,,,,DEM,Baltimore City,2900,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Barbara A. Mikulski,,,,,DEM,Baltimore City,46374,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Sid Altman,,,,,DEM,Baltimore City,1129,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,C. A. Dutch Ruppersberger,,,,,DEM,Baltimore City,4911,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Benjamin L. Cardin,,,,,DEM,Baltimore City,13789,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,John Rea,,,,,DEM,Baltimore City,1010,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,"Charles Curtis McPeek, Sr.",,,,,DEM,Baltimore City,972,,,,2004
+2014-06-26 17:13:15.896000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Elijah E. Cummings,,,,,DEM,Baltimore City,26251,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,President and Vice President of the United States,,George W. Bush,,,,,REP,Baltimore City,1614,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Corrogan R. Vaughn,,,,,REP,Baltimore City,83,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,John Stafford,,,,,REP,Baltimore City,138,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,E. J. Pipkin,,,,,REP,Baltimore City,772,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Gene Zarwell,,,,,REP,Baltimore City,84,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Ray Bly,,,,,REP,Baltimore City,112,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,"Eileen Cookie Baker"" Martin""",,,,,REP,Baltimore City,157,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Earl S. Gordon,,,,,REP,Baltimore City,132,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,James A. Kodak,,,,,REP,Baltimore City,74,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,U.S. Senator,,Dorothy Corry Jennings,,,,,REP,Baltimore City,206,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Dave Harvilicz,,,,,REP,Baltimore City,124,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Michael J. Littleton,,,,,REP,Baltimore City,78,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,02,Jane Brooks,,,,,REP,Baltimore City,147,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Armand F. Girard,,,,,REP,Baltimore City,138,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Robert P. Duckworth,,,,,REP,Baltimore City,371,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,03,Rick Hoover,,,,,REP,Baltimore City,198,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Tony Salazar,,,,,REP,Baltimore City,123,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Joseph E. Ward,,,,,REP,Baltimore City,297,,,,2004
+2014-06-26 17:13:20.547000,md-2004-03-02-primary,2004-03-02 00:00:00,2004-03-02 00:00:00,primary,certified,False,Representative in Congress,07,Almaajid Muhammad El,,,,,REP,Baltimore City,174,,,,2004
